@@ -1,0 +1,41 @@
+Metadata-Version: 2.1
+Name: bunny
+Version: 1.0
+Summary: A family of lightweight multimodal models.
+Project-URL: Homepage, https://github.com/BAAI-DCAI/Bunny
+Project-URL: Discussion, https://github.com/BAAI-DCAI/Bunny/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache Software License
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: accelerate
+Requires-Dist: apex
+Requires-Dist: bitsandbytes
+Requires-Dist: datasets
+Requires-Dist: deepspeed
+Requires-Dist: einops
+Requires-Dist: einops-exts
+Requires-Dist: fastapi
+Requires-Dist: flash_attn
+Requires-Dist: gradio
+Requires-Dist: gradio_client
+Requires-Dist: httpx
+Requires-Dist: markdown2
+Requires-Dist: numpy
+Requires-Dist: openpyxl
+Requires-Dist: peft
+Requires-Dist: protobuf
+Requires-Dist: pydantic
+Requires-Dist: pypandoc
+Requires-Dist: requests
+Requires-Dist: scikit-learn
+Requires-Dist: sentencepiece
+Requires-Dist: shortuuid
+Requires-Dist: timm
+Requires-Dist: tiktoken
+Requires-Dist: tokenizers
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: transformers
+Requires-Dist: uvicorn
+Requires-Dist: xformers
