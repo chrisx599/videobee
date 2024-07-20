@@ -1340,35 +1340,36 @@ class Phi3ForCausalLM(Phi3PreTrainedModel):
         predicted_ids = torch.argmax(logits, dim=-1)
         predicted_ids = torch.unbind(predicted_ids, dim=0)
         new_predicted_ids = []
-        temp_labels = labels[..., 1:].contiguous()
-        for index in range(len(predicted_ids)):
-            add_labels = temp_labels[index]
-            add_labels = torch.cat((add_labels, torch.tensor([-100]).cuda()))
-            new_item = []
-            # remove useless ids by label
-            for i in range(len(predicted_ids[index])):
-                # IGNORE_INDEX = -100
-                if add_labels[i] != -100:
-                    new_item.append(predicted_ids[index][i])
-            new_predicted_ids.append(torch.stack(new_item))
-        
-        predicted_tokens = [self.tokenizer.decode(ids, skip_special_tokens=True) for ids in new_predicted_ids]
-
         iou_loss = 0
-        for item in predicted_tokens:
-            temp = item.strip()
-            print(temp)
+        if labels is not None:
+            temp_labels = labels[..., 1:].contiguous()
+            for index in range(len(predicted_ids)):
+                add_labels = temp_labels[index]
+                add_labels = torch.cat((add_labels, torch.tensor([-100]).cuda()))
+                new_item = []
+                # remove useless ids by label
+                for i in range(len(predicted_ids[index])):
+                    # IGNORE_INDEX = -100
+                    if add_labels[i] != -100:
+                        new_item.append(predicted_ids[index][i])
+                new_predicted_ids.append(torch.stack(new_item))
+        
+            predicted_tokens = [self.tokenizer.decode(ids, skip_special_tokens=True) for ids in new_predicted_ids]
 
-            # is_list = self.is_valid_time_window_list(temp)
-            is_list = self.get_time_window(temp)
-            print(is_list)
-            if is_list:
-                print("IoU loss is running")
-                # pred_win = ast.literal_eval(temp)
-                iou_loss += compute_iou(is_list, windows)
-            else:
-                iou_loss += 1
-        iou_loss = iou_loss / len(predicted_tokens)
+            for item in predicted_tokens:
+                temp = item.strip()
+                print(temp)
+
+                # is_list = self.is_valid_time_window_list(temp)
+                is_list = self.get_time_window(temp)
+                print(is_list)
+                if is_list:
+                    print("IoU loss is running")
+                    # pred_win = ast.literal_eval(temp)
+                    iou_loss += compute_iou(is_list, windows)
+                else:
+                    iou_loss += 1
+            iou_loss = iou_loss / len(predicted_tokens)
         
         loss = iou_loss
         if labels is not None:
