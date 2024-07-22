@@ -166,12 +166,23 @@ def main(args):
     video_file = args.video_file
     base_folder = args.base_folder
     
-    with open(video_file,"r") as f:
-        content=f.readlines()
+    with open('/zhaobai46d/dataset/videodata/qvhighlights/highlight_val_release.jsonl', 'r') as f:
+        data = [json.loads(line) for line in f]
+    content = []
+    querys = []
+    for item in data:
+        content.append(item['vid'] + '.mp4')
+        querys.append(item['query'])
+
+
+
+    # with open(video_file,"r") as f:
+    #     content=f.readlines()
     
     result={}
     
-    for i in tqdm(content):
+    for k in tqdm(range(len(content))):
+        i = content[k]
         i=i.strip()
         path=os.path.join(base_folder,i)
        
@@ -198,7 +209,8 @@ def main(args):
             second = int(duration / 64 * (i-1))
             image_tokens += f"{second}s <image {i}>\n"
         
-        query = input("Please input query:\n")
+        query = querys[k]
+        # query = input("Please input query:\n")
         inp = 'Video: \n' + image_tokens + 'Video duration: ' + str(duration) + 's\nQuery: ' + query + '\n' + 'Task: ' + inp
         print(inp)
         conv.append_message(conv.roles[0], inp)
@@ -224,6 +236,7 @@ def main(args):
             
 
         outputs = tokenizer.decode(output_ids[0, input_ids.shape[1]:]).strip()
+        print(outputs)
         
         result[path.split('/')[-1]] = outputs.replace("<|endoftext|>","")
         
@@ -244,7 +257,7 @@ if __name__ == "__main__":
     parser.add_argument("--load-8bit", action="store_true")
     parser.add_argument("--load-4bit", action="store_true")
     parser.add_argument("--debug", action="store_true")
-    parser.add_argument("--base-folder", type=str, default="/zhaobai46d/videobunny/test_video")
+    parser.add_argument("--base-folder", type=str, default="/zhaobai46d/dataset/videodata/qvhighlights/videos")
     parser.add_argument("--video-file", type=str, default="test_video.txt")
     args = parser.parse_args()
     main(args)
