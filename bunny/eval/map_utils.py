@@ -9,7 +9,8 @@ from sklearn.metrics import precision_recall_curve
 
 def load_jsonl(filename):
     with open(filename, "r") as f:
-        return [json.loads(l.strip("\n")) for l in f.readlines()]
+        # return [json.loads(l.strip("\n")) for l in f.readlines()]
+        return [json.loads(line) for line in f]
 
 
 def compute_temporal_iou_batch_paired(pred_windows, gt_windows):
@@ -68,7 +69,7 @@ def interpolated_precision_recall(precision, recall):
         precision (np.ndarray): The precision of different thresholds.
         recall (np.ndarray): The recall of different thresholds.
 
-    Returns：
+    Returns:
         float: Average precision score.
     """
     mprecision = np.hstack([[0], precision, [0]])
@@ -113,7 +114,9 @@ def compute_average_precision_detection(ground_truth,
     num_positive = float(num_gts)
     lock_gt = np.ones((num_thresholds, num_gts)) * -1
     # Sort predictions by decreasing score order.
-    prediction.sort(key=lambda x: -x['score'])
+
+    # prediction.sort(key=lambda x: -x['score'])
+    
     # Initialize true positive and false positive vectors.
     tp = np.zeros((num_thresholds, num_preds))
     fp = np.zeros((num_thresholds, num_preds))

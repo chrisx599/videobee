@@ -1,0 +1,1550 @@
+{"qid": 2579, "pred_relevant_windows": [[90, 150]]}
+{"qid": 5071, "pred_relevant_windows": [[0, 44], [48, 96], [102, 150]]}
+{"qid": 5342, "pred_relevant_windows": [[4, 110]]}
+{"qid": 8636, "pred_relevant_windows": [[14, 30]]}
+{"qid": 8749, "pred_relevant_windows": [[12, 30]]}
+{"qid": 2638, "pred_relevant_windows": [[0, 150]]}
+{"qid": 5979, "pred_relevant_windows": [[0, 150]]}
+{"qid": 6223, "pred_relevant_windows": [[40, 46], [50, 60], [62, 72], [74, 84], [96, 102]]}
+{"qid": 8737, "pred_relevant_windows": [[0, 28]]}
+{"qid": 8783, "pred_relevant_windows": [[40, 62]]}
+{"qid": 781, "pred_relevant_windows": [[120, 130], [132, 148]]}
+{"qid": 3359, "pred_relevant_windows": [[24, 52], [60, 62]]}
+{"qid": 3503, "pred_relevant_windows": [[0, 38]]}
+{"qid": 4625, "pred_relevant_windows": [[58, 86]]}
+{"qid": 7803, "pred_relevant_windows": [[116, 138]]}
+{"qid": 8056, "pred_relevant_windows": [[12, 24], [40, 46]]}
+{"qid": 2321, "pred_relevant_windows": [[10, 56]]}
+{"qid": 2343, "pred_relevant_windows": [[4, 8], [14, 16], [38, 44], [78, 92], [140, 146]]}
+{"qid": 5926, "pred_relevant_windows": [[10, 24], [30, 32], [36, 42], [48, 54], [56, 60]]}
+{"qid": 9760, "pred_relevant_windows": [[0, 22], [24, 56]]}
+{"qid": 10029, "pred_relevant_windows": [[64, 68], [72, 86]]}
+{"qid": 10049, "pred_relevant_windows": [[26, 40], [48, 50], [66, 72]]}
+{"qid": 1872, "pred_relevant_windows": [[96, 134]]}
+{"qid": 3389, "pred_relevant_windows": [[112, 150]]}
+{"qid": 8014, "pred_relevant_windows": [[92, 106], [108, 118]]}
+{"qid": 3183, "pred_relevant_windows": [[56, 88]]}
+{"qid": 3407, "pred_relevant_windows": [[46, 88]]}
+{"qid": 3525, "pred_relevant_windows": [[24, 64]]}
+{"qid": 3403, "pred_relevant_windows": [[0, 28], [30, 34], [36, 38], [40, 48], [50, 54], [56, 60], [64, 66], [68, 70], [72, 74], [76, 78], [80, 82], [84, 86], [88, 90], [92, 94], [96, 98], [100, 102], [104, 106], [108, 110], [112, 114], [116, 118], [120, 122], [124, 126], [128, 130], [132, 134], [136, 138], [140, 142], [144, 146], [148, 150]]}
+{"qid": 4508, "pred_relevant_windows": [[34, 58]]}
+{"qid": 5612, "pred_relevant_windows": [[110, 126]]}
+{"qid": 9280, "pred_relevant_windows": [[0, 24], [48, 60], [72, 84], [96, 150]]}
+{"qid": 721, "pred_relevant_windows": [[26, 44]]}
+{"qid": 1870, "pred_relevant_windows": [[6, 48], [52, 84]]}
+{"qid": 2276, "pred_relevant_windows": [[0, 48]]}
+{"qid": 342, "pred_relevant_windows": [[100, 114]]}
+{"qid": 1751, "pred_relevant_windows": [[116, 150]]}
+{"qid": 6083, "pred_relevant_windows": [[44, 58]]}
+{"qid": 7484, "pred_relevant_windows": [[12, 42]]}
+{"qid": 3001, "pred_relevant_windows": [[16, 22], [30, 36], [48, 56], [62, 80]]}
+{"qid": 5584, "pred_relevant_windows": [[88, 98], [102, 114]]}
+{"qid": 6746, "pred_relevant_windows": [[52, 80]]}
+{"qid": 9796, "pred_relevant_windows": [[132, 150]]}
+{"qid": 2585, "pred_relevant_windows": [[106, 120]]}
+{"qid": 3739, "pred_relevant_windows": [[30, 48], [52, 64], [66, 72], [76, 80], [84, 90], [94, 98], [102, 116], [120, 124], [138, 140], [142, 144]]}
+{"qid": 4854, "pred_relevant_windows": [[126, 146]]}
+{"qid": 7218, "pred_relevant_windows": [[12, 66], [76, 78]]}
+{"qid": 8721, "pred_relevant_windows": [[106, 128], [136, 138]]}
+{"qid": 3069, "pred_relevant_windows": [[44, 92]]}
+{"qid": 4275, "pred_relevant_windows": [[118, 150]]}
+{"qid": 7735, "pred_relevant_windows": [[126, 150]]}
+{"qid": 4875, "pred_relevant_windows": [[126, 150]]}
+{"qid": 4887, "pred_relevant_windows": [[48, 72]]}
+{"qid": 6213, "pred_relevant_windows": [[8, 12], [52, 74], [100, 108], [124, 144]]}
+{"qid": 7002, "pred_relevant_windows": [[0, 14]]}
+{"qid": 7555, "pred_relevant_windows": [[102, 116]]}
+{"qid": 2433, "pred_relevant_windows": [[48, 122]]}
+{"qid": 3584, "pred_relevant_windows": [[108, 118], [122, 132]]}
+{"qid": 4023, "pred_relevant_windows": [[46, 70], [72, 78]]}
+{"qid": 1961, "pred_relevant_windows": [[12, 56]]}
+{"qid": 4419, "pred_relevant_windows": [[0, 148]]}
+{"qid": 5915, "pred_relevant_windows": [[112, 126]]}
+{"qid": 1276, "pred_relevant_windows": [[0, 34]]}
+{"qid": 2960, "pred_relevant_windows": [[120, 144]]}
+{"qid": 4792, "pred_relevant_windows": [[0, 34]]}
+{"qid": 8462, "pred_relevant_windows": [[0, 42]]}
+{"qid": 1264, "pred_relevant_windows": [[116, 150]]}
+{"qid": 1505, "pred_relevant_windows": [[74, 100]]}
+{"qid": 635, "pred_relevant_windows": [[2, 10], [22, 26], [34, 40], [46, 56], [62, 68], [74, 80], [116, 122], [138, 144]]}
+{"qid": 5488, "pred_relevant_windows": [[14, 32]]}
+{"qid": 8187, "pred_relevant_windows": [[14, 36]]}
+{"qid": 942, "pred_relevant_windows": [[6, 26], [36, 48], [52, 64]]}
+{"qid": 4691, "pred_relevant_windows": [[44, 78]]}
+{"qid": 8052, "pred_relevant_windows": [[18, 54]]}
+{"qid": 1136, "pred_relevant_windows": [[52, 88]]}
+{"qid": 1874, "pred_relevant_windows": [[106, 120]]}
+{"qid": 5510, "pred_relevant_windows": [[0, 114]]}
+{"qid": 4283, "pred_relevant_windows": [[54, 72]]}
+{"qid": 4548, "pred_relevant_windows": [[44, 70], [138, 150]]}
+{"qid": 7990, "pred_relevant_windows": [[106, 134]]}
+{"qid": 9462, "pred_relevant_windows": [[2, 28]]}
+{"qid": 9774, "pred_relevant_windows": [[68, 96]]}
+{"qid": 2435, "pred_relevant_windows": [[4, 20]]}
+{"qid": 2875, "pred_relevant_windows": [[0, 150]]}
+{"qid": 3938, "pred_relevant_windows": [[10, 54]]}
+{"qid": 8312, "pred_relevant_windows": [[68, 82]]}
+{"qid": 9979, "pred_relevant_windows": [[64, 84]]}
+{"qid": 2658, "pred_relevant_windows": [[12, 26], [34, 44]]}
+{"qid": 3826, "pred_relevant_windows": [[108, 124]]}
+{"qid": 5353, "pred_relevant_windows": [[104, 130]]}
+{"qid": 8341, "pred_relevant_windows": [[12, 34], [36, 78]]}
+{"qid": 8628, "pred_relevant_windows": [[42, 116]]}
+{"qid": 3915, "pred_relevant_windows": [[12, 26]]}
+{"qid": 6240, "pred_relevant_windows": [[64, 86]]}
+{"qid": 298, "pred_relevant_windows": [[72, 88]]}
+{"qid": 2851, "pred_relevant_windows": [[0, 22], [24, 32], [34, 40], [42, 56], [58, 60], [64, 72], [74, 78], [86, 90], [92, 94], [96, 100], [106, 116], [118, 128], [130, 134], [136, 140], [142, 150]]}
+{"qid": 5256, "pred_relevant_windows": [[108, 126]]}
+{"qid": 7527, "pred_relevant_windows": [[46, 66]]}
+{"qid": 8671, "pred_relevant_windows": [[96, 102], [106, 128]]}
+{"qid": 4707, "pred_relevant_windows": [[104, 132]]}
+{"qid": 6337, "pred_relevant_windows": [[0, 32]]}
+{"qid": 7940, "pred_relevant_windows": [[0, 44], [46, 126]]}
+{"qid": 9053, "pred_relevant_windows": [[0, 26]]}
+{"qid": 2132, "pred_relevant_windows": [[0, 14]]}
+{"qid": 3054, "pred_relevant_windows": [[36, 150]]}
+{"qid": 8193, "pred_relevant_windows": [[100, 128]]}
+{"qid": 4758, "pred_relevant_windows": [[10, 48]]}
+{"qid": 6807, "pred_relevant_windows": [[12, 42]]}
+{"qid": 7653, "pred_relevant_windows": [[0, 18]]}
+{"qid": 9692, "pred_relevant_windows": [[0, 22]]}
+{"qid": 9899, "pred_relevant_windows": [[0, 150]]}
+{"qid": 10189, "pred_relevant_windows": [[0, 150]]}
+{"qid": 2244, "pred_relevant_windows": [[86, 104], [106, 116]]}
+{"qid": 5862, "pred_relevant_windows": [[60, 86]]}
+{"qid": 7924, "pred_relevant_windows": [[114, 126], [130, 140], [142, 148]]}
+{"qid": 538, "pred_relevant_windows": [[12, 38]]}
+{"qid": 3834, "pred_relevant_windows": [[18, 44]]}
+{"qid": 5331, "pred_relevant_windows": [[0, 40]]}
+{"qid": 7547, "pred_relevant_windows": [[20, 48]]}
+{"qid": 8370, "pred_relevant_windows": [[34, 56]]}
+{"qid": 255, "pred_relevant_windows": [[24, 58], [60, 108]]}
+{"qid": 5084, "pred_relevant_windows": [[40, 60]]}
+{"qid": 993, "pred_relevant_windows": [[12, 26]]}
+{"qid": 2043, "pred_relevant_windows": [[108, 130], [134, 144]]}
+{"qid": 2125, "pred_relevant_windows": [[70, 112]]}
+{"qid": 1303, "pred_relevant_windows": [[0, 30]]}
+{"qid": 2511, "pred_relevant_windows": [[0, 32]]}
+{"qid": 3793, "pred_relevant_windows": [[4, 8], [14, 22], [38, 42], [56, 64]]}
+{"qid": 7285, "pred_relevant_windows": [[134, 150]]}
+{"qid": 7291, "pred_relevant_windows": [[130, 150]]}
+{"qid": 884, "pred_relevant_windows": [[66, 70], [74, 86]]}
+{"qid": 2253, "pred_relevant_windows": [[24, 56]]}
+{"qid": 5688, "pred_relevant_windows": [[0, 14]]}
+{"qid": 4413, "pred_relevant_windows": [[8, 22], [28, 52]]}
+{"qid": 6831, "pred_relevant_windows": [[90, 148]]}
+{"qid": 7861, "pred_relevant_windows": [[20, 48]]}
+{"qid": 10107, "pred_relevant_windows": [[0, 26]]}
+{"qid": 158, "pred_relevant_windows": [[38, 60]]}
+{"qid": 228, "pred_relevant_windows": [[108, 118], [120, 128]]}
+{"qid": 2798, "pred_relevant_windows": [[120, 146]]}
+{"qid": 1566, "pred_relevant_windows": [[0, 62]]}
+{"qid": 2583, "pred_relevant_windows": [[102, 144]]}
+{"qid": 6117, "pred_relevant_windows": [[64, 88]]}
+{"qid": 5587, "pred_relevant_windows": [[102, 118]]}
+{"qid": 6598, "pred_relevant_windows": [[60, 82], [84, 96]]}
+{"qid": 6863, "pred_relevant_windows": [[22, 142]]}
+{"qid": 9562, "pred_relevant_windows": [[0, 150]]}
+{"qid": 9619, "pred_relevant_windows": [[18, 54]]}
+{"qid": 10254, "pred_relevant_windows": [[34, 54]]}
+{"qid": 3573, "pred_relevant_windows": [[0, 26]]}
+{"qid": 5651, "pred_relevant_windows": [[120, 138], [144, 150]]}
+{"qid": 1271, "pred_relevant_windows": [[28, 54]]}
+{"qid": 5168, "pred_relevant_windows": [[72, 88]]}
+{"qid": 5257, "pred_relevant_windows": [[0, 16]]}
+{"qid": 8444, "pred_relevant_windows": [[108, 146]]}
+{"qid": 548, "pred_relevant_windows": [[58, 86]]}
+{"qid": 1918, "pred_relevant_windows": [[56, 80]]}
+{"qid": 2820, "pred_relevant_windows": [[10, 42]]}
+{"qid": 4468, "pred_relevant_windows": [[30, 58]]}
+{"qid": 5427, "pred_relevant_windows": [[4, 40]]}
+{"qid": 7604, "pred_relevant_windows": [[14, 42]]}
+{"qid": 8008, "pred_relevant_windows": [[6, 20], [24, 34]]}
+{"qid": 41, "pred_relevant_windows": [[0, 14]]}
+{"qid": 76, "pred_relevant_windows": [[0, 14]]}
+{"qid": 6065, "pred_relevant_windows": [[0, 14]]}
+{"qid": 7295, "pred_relevant_windows": [[0, 14]]}
+{"qid": 7581, "pred_relevant_windows": [[6, 150]]}
+{"qid": 10046, "pred_relevant_windows": [[44, 48], [52, 66], [70, 82]]}
+{"qid": 1155, "pred_relevant_windows": [[70, 88]]}
+{"qid": 3350, "pred_relevant_windows": [[108, 128]]}
+{"qid": 4378, "pred_relevant_windows": [[20, 124]]}
+{"qid": 4921, "pred_relevant_windows": [[0, 62]]}
+{"qid": 4957, "pred_relevant_windows": [[0, 150]]}
+{"qid": 6156, "pred_relevant_windows": [[120, 150]]}
+{"qid": 6978, "pred_relevant_windows": [[0, 44]]}
+{"qid": 7404, "pred_relevant_windows": [[56, 80]]}
+{"qid": 898, "pred_relevant_windows": [[114, 150]]}
+{"qid": 2220, "pred_relevant_windows": [[114, 150]]}
+{"qid": 4652, "pred_relevant_windows": [[84, 104]]}
+{"qid": 8967, "pred_relevant_windows": [[32, 48]]}
+{"qid": 2800, "pred_relevant_windows": [[18, 54]]}
+{"qid": 3622, "pred_relevant_windows": [[48, 64], [72, 80]]}
+{"qid": 4425, "pred_relevant_windows": [[102, 108], [112, 148]]}
+{"qid": 4738, "pred_relevant_windows": [[56, 64], [68, 72], [104, 118]]}
+{"qid": 6282, "pred_relevant_windows": [[74, 102]]}
+{"qid": 7277, "pred_relevant_windows": [[12, 34]]}
+{"qid": 8263, "pred_relevant_windows": [[64, 82], [84, 90]]}
+{"qid": 8425, "pred_relevant_windows": [[42, 146]]}
+{"qid": 525, "pred_relevant_windows": [[0, 24], [36, 40], [44, 58], [100, 118]]}
+{"qid": 3874, "pred_relevant_windows": [[74, 90]]}
+{"qid": 4029, "pred_relevant_windows": [[16, 40]]}
+{"qid": 6939, "pred_relevant_windows": [[4, 24]]}
+{"qid": 8872, "pred_relevant_windows": [[0, 10], [12, 50], [54, 58], [60, 64], [72, 80], [84, 90], [92, 96], [98, 102], [106, 112], [118, 124]]}
+{"qid": 3603, "pred_relevant_windows": [[0, 18], [20, 22], [24, 26]]}
+{"qid": 3900, "pred_relevant_windows": [[28, 60]]}
+{"qid": 4719, "pred_relevant_windows": [[2, 8], [18, 150]]}
+{"qid": 5703, "pred_relevant_windows": [[128, 150]]}
+{"qid": 6166, "pred_relevant_windows": [[112, 126]]}
+{"qid": 6950, "pred_relevant_windows": [[48, 80]]}
+{"qid": 8108, "pred_relevant_windows": [[100, 124]]}
+{"qid": 9073, "pred_relevant_windows": [[50, 66]]}
+{"qid": 4427, "pred_relevant_windows": [[34, 96]]}
+{"qid": 4627, "pred_relevant_windows": [[114, 150]]}
+{"qid": 5690, "pred_relevant_windows": [[26, 46]]}
+{"qid": 2363, "pred_relevant_windows": [[58, 78]]}
+{"qid": 5566, "pred_relevant_windows": [[48, 74], [132, 150]]}
+{"qid": 7622, "pred_relevant_windows": [[84, 116], [122, 126], [130, 150]]}
+{"qid": 2386, "pred_relevant_windows": [[10, 32]]}
+{"qid": 4178, "pred_relevant_windows": [[16, 40]]}
+{"qid": 6729, "pred_relevant_windows": [[70, 96]]}
+{"qid": 9173, "pred_relevant_windows": [[0, 110]]}
+{"qid": 9512, "pred_relevant_windows": [[0, 150]]}
+{"qid": 3077, "pred_relevant_windows": [[0, 22], [24, 36], [38, 42], [46, 74], [76, 80], [84, 90], [92, 94], [96, 98], [100, 104], [106, 110], [114, 116], [118, 120], [122, 124], [126, 128], [130, 132], [134, 136], [138, 140], [142, 144]]}
+{"qid": 5802, "pred_relevant_windows": [[70, 94]]}
+{"qid": 7770, "pred_relevant_windows": [[24, 46]]}
+{"qid": 2323, "pred_relevant_windows": [[62, 112]]}
+{"qid": 3530, "pred_relevant_windows": [[60, 82], [94, 106], [108, 122], [128, 142]]}
+{"qid": 4391, "pred_relevant_windows": [[0, 14]]}
+{"qid": 9119, "pred_relevant_windows": [[48, 120]]}
+{"qid": 66, "pred_relevant_windows": [[120, 136]]}
+{"qid": 1323, "pred_relevant_windows": [[0, 68]]}
+{"qid": 4831, "pred_relevant_windows": [[84, 102], [108, 118]]}
+{"qid": 7264, "pred_relevant_windows": [[86, 112]]}
+{"qid": 9207, "pred_relevant_windows": [[2, 46]]}
+{"qid": 9367, "pred_relevant_windows": [[56, 120]]}
+{"qid": 3042, "pred_relevant_windows": [[82, 92], [94, 104], [106, 116]]}
+{"qid": 7768, "pred_relevant_windows": [[102, 116]]}
+{"qid": 8144, "pred_relevant_windows": [[0, 0]]}
+{"qid": 9277, "pred_relevant_windows": [[86, 114], [120, 126], [134, 140], [142, 150]]}
+{"qid": 1999, "pred_relevant_windows": [[122, 146]]}
+{"qid": 6885, "pred_relevant_windows": [[38, 68]]}
+{"qid": 8154, "pred_relevant_windows": [[6, 20]]}
+{"qid": 8987, "pred_relevant_windows": [[84, 114]]}
+{"qid": 601, "pred_relevant_windows": [[10, 12], [16, 18], [20, 22], [28, 30], [34, 36], [40, 42], [46, 50], [52, 54], [58, 60], [62, 64], [66, 68], [72, 74], [76, 78], [80, 82], [84, 86], [88, 90], [92, 94], [96, 98], [100, 102], [104, 106], [108, 110], [112, 114], [116, 118], [120, 122], [126, 128], [130, 132], [134, 136], [138, 140], [142, 144], [146, 150]]}
+{"qid": 912, "pred_relevant_windows": [[2, 24]]}
+{"qid": 1805, "pred_relevant_windows": [[80, 102]]}
+{"qid": 1813, "pred_relevant_windows": [[44, 48], [60, 66], [70, 76], [90, 96]]}
+{"qid": 2364, "pred_relevant_windows": [[110, 138]]}
+{"qid": 3378, "pred_relevant_windows": [[24, 50]]}
+{"qid": 840, "pred_relevant_windows": [[64, 94]]}
+{"qid": 3456, "pred_relevant_windows": [[26, 36], [40, 48], [50, 54]]}
+{"qid": 4495, "pred_relevant_windows": [[86, 102]]}
+{"qid": 9651, "pred_relevant_windows": [[0, 28], [36, 46], [50, 60]]}
+{"qid": 9758, "pred_relevant_windows": [[60, 96]]}
+{"qid": 10307, "pred_relevant_windows": [[116, 138]]}
+{"qid": 251, "pred_relevant_windows": [[0, 14]]}
+{"qid": 561, "pred_relevant_windows": [[0, 18], [24, 32]]}
+{"qid": 5277, "pred_relevant_windows": [[0, 14]]}
+{"qid": 759, "pred_relevant_windows": [[64, 78]]}
+{"qid": 4295, "pred_relevant_windows": [[104, 144]]}
+{"qid": 5672, "pred_relevant_windows": [[92, 106], [118, 134]]}
+{"qid": 949, "pred_relevant_windows": [[0, 28]]}
+{"qid": 1067, "pred_relevant_windows": [[10, 14], [28, 34], [46, 52], [60, 66], [76, 82], [116, 122], [130, 136]]}
+{"qid": 3254, "pred_relevant_windows": [[108, 126], [134, 138]]}
+{"qid": 1891, "pred_relevant_windows": [[58, 72]]}
+{"qid": 3064, "pred_relevant_windows": [[78, 114], [116, 120], [122, 150]]}
+{"qid": 4235, "pred_relevant_windows": [[108, 126]]}
+{"qid": 2646, "pred_relevant_windows": [[100, 150]]}
+{"qid": 4217, "pred_relevant_windows": [[68, 114]]}
+{"qid": 5266, "pred_relevant_windows": [[24, 60]]}
+{"qid": 6107, "pred_relevant_windows": [[108, 122]]}
+{"qid": 7223, "pred_relevant_windows": [[8, 34]]}
+{"qid": 7533, "pred_relevant_windows": [[108, 132]]}
+{"qid": 7691, "pred_relevant_windows": [[12, 32]]}
+{"qid": 8028, "pred_relevant_windows": [[118, 140]]}
+{"qid": 1571, "pred_relevant_windows": [[102, 138]]}
+{"qid": 2469, "pred_relevant_windows": [[0, 22]]}
+{"qid": 4973, "pred_relevant_windows": [[14, 36]]}
+{"qid": 8298, "pred_relevant_windows": [[14, 22], [34, 44], [50, 58], [70, 78], [106, 116]]}
+{"qid": 8315, "pred_relevant_windows": [[114, 144]]}
+{"qid": 9471, "pred_relevant_windows": [[104, 132]]}
+{"qid": 2448, "pred_relevant_windows": [[120, 150]]}
+{"qid": 6252, "pred_relevant_windows": [[2, 20]]}
+{"qid": 7367, "pred_relevant_windows": [[16, 32], [36, 42]]}
+{"qid": 8792, "pred_relevant_windows": [[26, 40], [42, 44]]}
+{"qid": 1959, "pred_relevant_windows": [[42, 92]]}
+{"qid": 5613, "pred_relevant_windows": [[114, 132]]}
+{"qid": 5644, "pred_relevant_windows": [[0, 150]]}
+{"qid": 939, "pred_relevant_windows": [[0, 10], [20, 50]]}
+{"qid": 5378, "pred_relevant_windows": [[24, 38]]}
+{"qid": 6798, "pred_relevant_windows": [[2, 20]]}
+{"qid": 9035, "pred_relevant_windows": [[118, 134]]}
+{"qid": 5568, "pred_relevant_windows": [[102, 138]]}
+{"qid": 6469, "pred_relevant_windows": [[94, 120]]}
+{"qid": 1312, "pred_relevant_windows": [[76, 116]]}
+{"qid": 4061, "pred_relevant_windows": [[126, 150]]}
+{"qid": 5239, "pred_relevant_windows": [[0, 38]]}
+{"qid": 7183, "pred_relevant_windows": [[46, 62]]}
+{"qid": 7454, "pred_relevant_windows": [[12, 30], [32, 34]]}
+{"qid": 1360, "pred_relevant_windows": [[12, 42]]}
+{"qid": 1568, "pred_relevant_windows": [[0, 26]]}
+{"qid": 2742, "pred_relevant_windows": [[28, 50]]}
+{"qid": 7332, "pred_relevant_windows": [[126, 144]]}
+{"qid": 7567, "pred_relevant_windows": [[112, 130], [132, 146]]}
+{"qid": 1875, "pred_relevant_windows": [[8, 36]]}
+{"qid": 4671, "pred_relevant_windows": [[122, 150]]}
+{"qid": 5407, "pred_relevant_windows": [[28, 44]]}
+{"qid": 1909, "pred_relevant_windows": [[108, 144]]}
+{"qid": 5748, "pred_relevant_windows": [[4, 22], [30, 34]]}
+{"qid": 6393, "pred_relevant_windows": [[2, 18], [48, 74]]}
+{"qid": 9369, "pred_relevant_windows": [[0, 2], [4, 8], [10, 16], [20, 28], [30, 36], [40, 46], [50, 52], [54, 58], [60, 66], [68, 72], [74, 78], [80, 86], [90, 92], [96, 100], [102, 106], [112, 116], [120, 124], [126, 128], [130, 132], [134, 138], [140, 142], [144, 148]]}
+{"qid": 9267, "pred_relevant_windows": [[104, 144]]}
+{"qid": 10203, "pred_relevant_windows": [[0, 2], [8, 16], [24, 32], [90, 98]]}
+{"qid": 10240, "pred_relevant_windows": [[0, 2], [8, 16], [24, 32], [90, 98]]}
+{"qid": 2445, "pred_relevant_windows": [[68, 100], [104, 124]]}
+{"qid": 3864, "pred_relevant_windows": [[0, 22]]}
+{"qid": 5994, "pred_relevant_windows": [[112, 126], [134, 148]]}
+{"qid": 4630, "pred_relevant_windows": [[74, 120]]}
+{"qid": 5437, "pred_relevant_windows": [[74, 102]]}
+{"qid": 6643, "pred_relevant_windows": [[114, 138]]}
+{"qid": 244, "pred_relevant_windows": [[12, 150]]}
+{"qid": 3610, "pred_relevant_windows": [[120, 150]]}
+{"qid": 4946, "pred_relevant_windows": [[86, 128]]}
+{"qid": 8786, "pred_relevant_windows": [[0, 150]]}
+{"qid": 2390, "pred_relevant_windows": [[106, 150]]}
+{"qid": 5914, "pred_relevant_windows": [[114, 150]]}
+{"qid": 7627, "pred_relevant_windows": [[68, 112]]}
+{"qid": 853, "pred_relevant_windows": [[48, 66], [70, 92]]}
+{"qid": 5406, "pred_relevant_windows": [[94, 110]]}
+{"qid": 7846, "pred_relevant_windows": [[10, 26]]}
+{"qid": 101, "pred_relevant_windows": [[0, 72], [74, 150]]}
+{"qid": 328, "pred_relevant_windows": [[72, 88]]}
+{"qid": 4097, "pred_relevant_windows": [[16, 48]]}
+{"qid": 8386, "pred_relevant_windows": [[120, 134]]}
+{"qid": 8730, "pred_relevant_windows": [[112, 126]]}
+{"qid": 4917, "pred_relevant_windows": [[26, 150]]}
+{"qid": 5049, "pred_relevant_windows": [[108, 124]]}
+{"qid": 6057, "pred_relevant_windows": [[72, 150]]}
+{"qid": 7575, "pred_relevant_windows": [[102, 124]]}
+{"qid": 8942, "pred_relevant_windows": [[118, 150]]}
+{"qid": 4226, "pred_relevant_windows": [[38, 60]]}
+{"qid": 5043, "pred_relevant_windows": [[46, 60]]}
+{"qid": 6139, "pred_relevant_windows": [[0, 150]]}
+{"qid": 6675, "pred_relevant_windows": [[102, 128]]}
+{"qid": 7308, "pred_relevant_windows": [[114, 132]]}
+{"qid": 8065, "pred_relevant_windows": [[0, 24]]}
+{"qid": 8956, "pred_relevant_windows": [[48, 80]]}
+{"qid": 1119, "pred_relevant_windows": [[72, 86]]}
+{"qid": 3028, "pred_relevant_windows": [[4, 8], [10, 28], [30, 150]]}
+{"qid": 4310, "pred_relevant_windows": [[86, 92], [100, 106], [120, 126], [132, 136], [140, 144]]}
+{"qid": 9216, "pred_relevant_windows": [[8, 36], [42, 54]]}
+{"qid": 1424, "pred_relevant_windows": [[0, 48]]}
+{"qid": 1689, "pred_relevant_windows": [[0, 14]]}
+{"qid": 4987, "pred_relevant_windows": [[54, 88]]}
+{"qid": 7065, "pred_relevant_windows": [[18, 40]]}
+{"qid": 8855, "pred_relevant_windows": [[0, 88], [92, 126]]}
+{"qid": 430, "pred_relevant_windows": [[126, 150]]}
+{"qid": 3675, "pred_relevant_windows": [[24, 84], [86, 124]]}
+{"qid": 5029, "pred_relevant_windows": [[96, 150]]}
+{"qid": 7028, "pred_relevant_windows": [[90, 124]]}
+{"qid": 7061, "pred_relevant_windows": [[14, 52]]}
+{"qid": 533, "pred_relevant_windows": [[0, 36]]}
+{"qid": 2852, "pred_relevant_windows": [[48, 122]]}
+{"qid": 655, "pred_relevant_windows": [[44, 72]]}
+{"qid": 4303, "pred_relevant_windows": [[96, 128]]}
+{"qid": 4409, "pred_relevant_windows": [[68, 72], [80, 94], [102, 108], [120, 128]]}
+{"qid": 81, "pred_relevant_windows": [[6, 30]]}
+{"qid": 2540, "pred_relevant_windows": [[108, 134]]}
+{"qid": 4892, "pred_relevant_windows": [[80, 108]]}
+{"qid": 8401, "pred_relevant_windows": [[32, 56]]}
+{"qid": 8691, "pred_relevant_windows": [[76, 110]]}
+{"qid": 3482, "pred_relevant_windows": [[6, 30]]}
+{"qid": 5941, "pred_relevant_windows": [[38, 54]]}
+{"qid": 6538, "pred_relevant_windows": [[4, 116]]}
+{"qid": 9667, "pred_relevant_windows": [[0, 108], [110, 150]]}
+{"qid": 9935, "pred_relevant_windows": [[10, 32]]}
+{"qid": 10157, "pred_relevant_windows": [[110, 128], [134, 140], [146, 150]]}
+{"qid": 9284, "pred_relevant_windows": [[108, 134]]}
+{"qid": 9657, "pred_relevant_windows": [[10, 26]]}
+{"qid": 9954, "pred_relevant_windows": [[110, 126]]}
+{"qid": 1183, "pred_relevant_windows": [[28, 34], [36, 44]]}
+{"qid": 4617, "pred_relevant_windows": [[68, 110]]}
+{"qid": 6480, "pred_relevant_windows": [[94, 134]]}
+{"qid": 9157, "pred_relevant_windows": [[6, 20]]}
+{"qid": 3007, "pred_relevant_windows": [[84, 138]]}
+{"qid": 5778, "pred_relevant_windows": [[12, 24], [50, 60]]}
+{"qid": 7787, "pred_relevant_windows": [[132, 148]]}
+{"qid": 9159, "pred_relevant_windows": [[82, 104]]}
+{"qid": 9737, "pred_relevant_windows": [[14, 36]]}
+{"qid": 10269, "pred_relevant_windows": [[0, 28]]}
+{"qid": 10294, "pred_relevant_windows": [[102, 134]]}
+{"qid": 2921, "pred_relevant_windows": [[0, 124]]}
+{"qid": 5036, "pred_relevant_windows": [[16, 40]]}
+{"qid": 5375, "pred_relevant_windows": [[116, 150]]}
+{"qid": 7236, "pred_relevant_windows": [[12, 36]]}
+{"qid": 370, "pred_relevant_windows": [[120, 136]]}
+{"qid": 5224, "pred_relevant_windows": [[52, 76]]}
+{"qid": 6046, "pred_relevant_windows": [[116, 138]]}
+{"qid": 7044, "pred_relevant_windows": [[128, 142]]}
+{"qid": 8878, "pred_relevant_windows": [[20, 58]]}
+{"qid": 9528, "pred_relevant_windows": [[6, 10], [14, 24], [40, 46], [50, 54], [90, 96]]}
+{"qid": 9634, "pred_relevant_windows": [[0, 150]]}
+{"qid": 9768, "pred_relevant_windows": [[48, 150]]}
+{"qid": 1331, "pred_relevant_windows": [[76, 100]]}
+{"qid": 1487, "pred_relevant_windows": [[76, 100], [104, 108]]}
+{"qid": 2518, "pred_relevant_windows": [[8, 10], [14, 16], [22, 24], [28, 32], [36, 40], [44, 46], [52, 54], [56, 58], [62, 64], [66, 68], [72, 74], [76, 78], [80, 82], [84, 86], [88, 90], [92, 94], [96, 98], [100, 102], [104, 106], [108, 112], [114, 116], [118, 120], [122, 124], [126, 128], [130, 132], [134, 136], [138, 140], [142, 144], [146, 148], [150, 152], [154, 156], [158, 160], [162, 164], [166, 168], [170, 172], [174, 176], [178, 180], [182, 184], [186, 188], [190, 192], [194, 196], [198, 200], [202, 204], [206, 208], [210, 212], [216, 218], [220, 222], [224, 226], [228, 230], [232, 234], [236, 238], [240, 242], [244, 246], [248, 250], [252, 254], [256, 258], [624, 626], [628, 630], [632, 634], [636, 638], [640, 642], [644, 646], [648, 650], [652, 654], [656, 658], [660, 662], [664, 666], [668, 670], [672, 674], [676, 678], [680, 682], [684, 686], [700, 702], [704, 706], [708, 710], [712, 714], [716, 718], [720, 722], [724, 726], [728, 730], [732, 734], [736, 738], [740, 742], [744, 746], [748, 750], [752, 754], [756, 758], [760, 762], [764, 768], [800, 802], [806, 808], [812, 814], [818, 820], [824, 826], [828, 832], [834, 838], [840, 842], [846, 848], [850, 852], [854, 858], [860, 862], [864, 868], [870, 872], [874, 876], [878, 882], [884, 886], [888, 900], [902, 904], [906, 908], [910, 912], [914, 916], [918, 920], [922, 924], [926, 928], [930, 932], [934, 936], [938, 940], [942, 944], [946, 948], [950, 952], [954, 956], [958, 960], [962, 964], [966, 968], [970, 972], [974, 976], [978, 1000], [1002, 1004], [1006, 1008], [1010, 1012], [1016, 1018], [1020, 1022], [1024, 1026], [1028, 1030], [1032, 1034], [1036, 1038], [1040, 1042], [1044, 1048], [1100, 1102], [1106, 1108], [1116, 1118], [1200, 1202], [1206, 1208], [1210, 1212], [1216, 1218], [1220, 1222], [1224, 1228], [1230, 1232], [1234, 1238], [1240, 1242], [1246, 1248], [1250, 1252], [1254, 1256], [1258, 1300], [1302, 1304], [1306, 1308], [1320, 1322], [1324, 1326], [1328, 1330], [1332, 1334], [1336, 1338], [1340, 1342], [1344, 1348], [1500, 1502], [1506, 1508], [1510, 1512], [1516, 1518], [1520, 1522], [1524, 1528], [1530, 1532], [1536, 1538], [1540, 1542], [1546, 1548], [1550, 1552], [1554, 1558], [1600, 1602], [1606, 1608], [1610, 1612], [1616, 1618], [1620, 1622], [1624, 1628], [1630, 1632], [1634, 1638], [1640, 1642], [1646, 1500]]}
+{"qid": 1755, "pred_relevant_windows": [[68, 94]]}
+{"qid": 5364, "pred_relevant_windows": [[28, 58], [60, 70]]}
+{"qid": 3307, "pred_relevant_windows": [[66, 102]]}
+{"qid": 4457, "pred_relevant_windows": [[10, 62]]}
+{"qid": 6288, "pred_relevant_windows": [[48, 122]]}
+{"qid": 10050, "pred_relevant_windows": [[82, 104]]}
+{"qid": 10242, "pred_relevant_windows": [[2, 4], [6, 8], [14, 16], [22, 24], [28, 30], [34, 36], [40, 42], [46, 48], [52, 54], [58, 60], [62, 64], [68, 70], [74, 76], [82, 84], [88, 90], [92, 94], [96, 98], [100, 102], [106, 108], [112, 114], [116, 118], [120, 122], [124, 126], [128, 130], [132, 134], [136, 138], [140, 142], [144, 146], [148, 150], [152, 154], [156, 158], [160, 162], [164, 166], [168, 170], [172, 174], [176, 178], [180, 182], [184, 186], [188, 190], [192, 194], [196, 198], [200, 202], [204, 206], [208, 210], [212, 214], [216, 218], [220, 222], [224, 226], [228, 230], [232, 234], [236, 238], [240, 242], [244, 246], [248, 52]]}
+{"qid": 3173, "pred_relevant_windows": [[0, 150]]}
+{"qid": 3229, "pred_relevant_windows": [[0, 52]]}
+{"qid": 5469, "pred_relevant_windows": [[96, 126]]}
+{"qid": 2264, "pred_relevant_windows": [[68, 70], [78, 90], [118, 132]]}
+{"qid": 3005, "pred_relevant_windows": [[44, 76]]}
+{"qid": 5392, "pred_relevant_windows": [[16, 26], [30, 38], [42, 48]]}
+{"qid": 4608, "pred_relevant_windows": [[108, 132]]}
+{"qid": 5817, "pred_relevant_windows": [[48, 86]]}
+{"qid": 6875, "pred_relevant_windows": [[26, 40]]}
+{"qid": 1616, "pred_relevant_windows": [[122, 150]]}
+{"qid": 4900, "pred_relevant_windows": [[0, 44], [46, 54]]}
+{"qid": 5097, "pred_relevant_windows": [[12, 36]]}
+{"qid": 8650, "pred_relevant_windows": [[68, 108]]}
+{"qid": 1021, "pred_relevant_windows": [[0, 10], [22, 24], [30, 32], [36, 38], [54, 56], [62, 64], [70, 72], [76, 78], [84, 86], [90, 92], [96, 98], [102, 104], [116, 118], [124, 126], [130, 132], [138, 140], [144, 146]]}
+{"qid": 3026, "pred_relevant_windows": [[0, 36], [38, 64], [70, 88], [104, 150]]}
+{"qid": 6571, "pred_relevant_windows": [[108, 122]]}
+{"qid": 2513, "pred_relevant_windows": [[12, 26], [36, 48], [52, 60]]}
+{"qid": 2721, "pred_relevant_windows": [[22, 28], [32, 46]]}
+{"qid": 5060, "pred_relevant_windows": [[122, 150]]}
+{"qid": 6977, "pred_relevant_windows": [[90, 110]]}
+{"qid": 8314, "pred_relevant_windows": [[128, 150]]}
+{"qid": 9325, "pred_relevant_windows": [[56, 116]]}
+{"qid": 2578, "pred_relevant_windows": [[114, 150]]}
+{"qid": 3811, "pred_relevant_windows": [[12, 30], [32, 34]]}
+{"qid": 6266, "pred_relevant_windows": [[86, 116]]}
+{"qid": 7477, "pred_relevant_windows": [[128, 150]]}
+{"qid": 8442, "pred_relevant_windows": [[108, 136]]}
+{"qid": 919, "pred_relevant_windows": [[116, 140]]}
+{"qid": 8151, "pred_relevant_windows": [[80, 108], [110, 112]]}
+{"qid": 8188, "pred_relevant_windows": [[8, 22], [54, 60], [62, 66]]}
+{"qid": 1052, "pred_relevant_windows": [[128, 150]]}
+{"qid": 7830, "pred_relevant_windows": [[2, 4], [10, 34]]}
+{"qid": 7975, "pred_relevant_windows": [[108, 128]]}
+{"qid": 621, "pred_relevant_windows": [[60, 88]]}
+{"qid": 3133, "pred_relevant_windows": [[10, 34], [36, 74]]}
+{"qid": 4649, "pred_relevant_windows": [[6, 10], [34, 36], [48, 60], [78, 82], [102, 104], [106, 108], [122, 124], [128, 130], [134, 136]]}
+{"qid": 825, "pred_relevant_windows": [[28, 50]]}
+{"qid": 1115, "pred_relevant_windows": [[108, 122]]}
+{"qid": 3215, "pred_relevant_windows": [[20, 36], [40, 50]]}
+{"qid": 10091, "pred_relevant_windows": [[0, 26]]}
+{"qid": 10220, "pred_relevant_windows": [[118, 140]]}
+{"qid": 10289, "pred_relevant_windows": [[44, 58]]}
+{"qid": 4219, "pred_relevant_windows": [[0, 10], [12, 150]]}
+{"qid": 7629, "pred_relevant_windows": [[62, 76], [78, 90]]}
+{"qid": 8019, "pred_relevant_windows": [[58, 68], [70, 74]]}
+{"qid": 2024, "pred_relevant_windows": [[48, 92]]}
+{"qid": 2103, "pred_relevant_windows": [[54, 150]]}
+{"qid": 4320, "pred_relevant_windows": [[0, 14]]}
+{"qid": 8981, "pred_relevant_windows": [[114, 137]]}
+{"qid": 4266, "pred_relevant_windows": [[106, 132]]}
+{"qid": 6590, "pred_relevant_windows": [[48, 64]]}
+{"qid": 6656, "pred_relevant_windows": [[112, 126]]}
+{"qid": 9684, "pred_relevant_windows": [[120, 150]]}
+{"qid": 10033, "pred_relevant_windows": [[6, 10], [32, 42], [62, 72]]}
+{"qid": 10229, "pred_relevant_windows": [[0, 20]]}
+{"qid": 922, "pred_relevant_windows": [[4, 16], [86, 134]]}
+{"qid": 6797, "pred_relevant_windows": [[2, 4], [16, 22], [32, 38], [54, 58], [70, 74], [102, 106], [126, 134], [142, 148]]}
+{"qid": 8075, "pred_relevant_windows": [[12, 150]]}
+{"qid": 9590, "pred_relevant_windows": [[66, 80]]}
+{"qid": 10131, "pred_relevant_windows": [[12, 30]]}
+{"qid": 10200, "pred_relevant_windows": [[86, 124]]}
+{"qid": 3748, "pred_relevant_windows": [[12, 150]]}
+{"qid": 6132, "pred_relevant_windows": [[100, 150]]}
+{"qid": 2640, "pred_relevant_windows": [[0, 150]]}
+{"qid": 3916, "pred_relevant_windows": [[30, 68]]}
+{"qid": 4477, "pred_relevant_windows": [[0, 36]]}
+{"qid": 5623, "pred_relevant_windows": [[44, 72]]}
+{"qid": 5790, "pred_relevant_windows": [[116, 150]]}
+{"qid": 2097, "pred_relevant_windows": [[0, 8], [18, 22], [26, 30], [38, 44], [54, 58], [76, 80], [102, 106], [116, 120], [132, 136], [140, 144]]}
+{"qid": 2267, "pred_relevant_windows": [[24, 38], [42, 64]]}
+{"qid": 3279, "pred_relevant_windows": [[2, 24]]}
+{"qid": 934, "pred_relevant_windows": [[28, 50]]}
+{"qid": 4393, "pred_relevant_windows": [[32, 56]]}
+{"qid": 6512, "pred_relevant_windows": [[44, 76]]}
+{"qid": 9579, "pred_relevant_windows": [[64, 86], [96, 100], [102, 150]]}
+{"qid": 9987, "pred_relevant_windows": [[60, 84]]}
+{"qid": 10103, "pred_relevant_windows": [[0, 28]]}
+{"qid": 338, "pred_relevant_windows": [[126, 140]]}
+{"qid": 1717, "pred_relevant_windows": [[0, 12], [14, 16], [20, 22], [24, 26], [32, 34], [46, 50], [54, 56], [64, 66], [76, 78], [80, 82], [84, 86], [96, 98], [100, 102], [104, 106], [108, 110], [112, 114], [116, 118], [120, 122], [124, 126], [128, 130], [132, 134], [136, 138], [140, 142], [144, 150]]}
+{"qid": 5198, "pred_relevant_windows": [[0, 16]]}
+{"qid": 6896, "pred_relevant_windows": [[10, 14], [16, 42], [46, 112]]}
+{"qid": 8274, "pred_relevant_windows": [[44, 72]]}
+{"qid": 436, "pred_relevant_windows": [[80, 110]]}
+{"qid": 3796, "pred_relevant_windows": [[12, 34]]}
+{"qid": 9231, "pred_relevant_windows": [[0, 150]]}
+{"qid": 9283, "pred_relevant_windows": [[0, 38]]}
+{"qid": 389, "pred_relevant_windows": [[86, 108], [110, 124]]}
+{"qid": 2897, "pred_relevant_windows": [[116, 150]]}
+{"qid": 5372, "pred_relevant_windows": [[12, 30], [36, 42]]}
+{"qid": 8661, "pred_relevant_windows": [[92, 108], [114, 128]]}
+{"qid": 3769, "pred_relevant_windows": [[60, 108]]}
+{"qid": 4069, "pred_relevant_windows": [[0, 14]]}
+{"qid": 5152, "pred_relevant_windows": [[26, 52]]}
+{"qid": 7338, "pred_relevant_windows": [[28, 50]]}
+{"qid": 8537, "pred_relevant_windows": [[58, 80], [84, 94]]}
+{"qid": 3634, "pred_relevant_windows": [[20, 40]]}
+{"qid": 3678, "pred_relevant_windows": [[112, 150]]}
+{"qid": 5182, "pred_relevant_windows": [[56, 116]]}
+{"qid": 7014, "pred_relevant_windows": [[126, 150]]}
+{"qid": 7309, "pred_relevant_windows": [[114, 150]]}
+{"qid": 2770, "pred_relevant_windows": [[68, 112], [116, 120]]}
+{"qid": 4832, "pred_relevant_windows": [[96, 100], [108, 150]]}
+{"qid": 6254, "pred_relevant_windows": [[0, 150]]}
+{"qid": 7284, "pred_relevant_windows": [[12, 66], [70, 74]]}
+{"qid": 8929, "pred_relevant_windows": [[12, 52], [62, 66]]}
+{"qid": 9763, "pred_relevant_windows": [[112, 126]]}
+{"qid": 9942, "pred_relevant_windows": [[0, 26]]}
+{"qid": 10176, "pred_relevant_windows": [[32, 56]]}
+{"qid": 222, "pred_relevant_windows": [[62, 70], [78, 82]]}
+{"qid": 3663, "pred_relevant_windows": [[0, 14]]}
+{"qid": 4157, "pred_relevant_windows": [[90, 126]]}
+{"qid": 8348, "pred_relevant_windows": [[78, 118]]}
+{"qid": 8646, "pred_relevant_windows": [[16, 48]]}
+{"qid": 321, "pred_relevant_windows": [[0, 0]]}
+{"qid": 1671, "pred_relevant_windows": [[4, 8], [10, 150]]}
+{"qid": 2537, "pred_relevant_windows": [[4, 12], [16, 18], [30, 34], [40, 44], [50, 52], [54, 56], [60, 64], [68, 70], [74, 76], [80, 82], [86, 88], [100, 102], [104, 106], [110, 112], [116, 118], [120, 122], [124, 126], [128, 130], [132, 134], [136, 138], [140, 142], [144, 150]]}
+{"qid": 8681, "pred_relevant_windows": [[36, 64], [68, 72]]}
+{"qid": 9885, "pred_relevant_windows": [[108, 130]]}
+{"qid": 10056, "pred_relevant_windows": [[8, 10], [14, 24], [30, 34]]}
+{"qid": 571, "pred_relevant_windows": [[24, 88]]}
+{"qid": 1952, "pred_relevant_windows": [[2, 26]]}
+{"qid": 2656, "pred_relevant_windows": [[58, 114]]}
+{"qid": 4230, "pred_relevant_windows": [[0, 30]]}
+{"qid": 6162, "pred_relevant_windows": [[0, 58]]}
+{"qid": 7432, "pred_relevant_windows": [[34, 66]]}
+{"qid": 8101, "pred_relevant_windows": [[8, 22], [38, 46], [52, 64], [76, 80], [94, 100], [114, 120], [132, 138]]}
+{"qid": 8419, "pred_relevant_windows": [[0, 68]]}
+{"qid": 1827, "pred_relevant_windows": [[120, 142]]}
+{"qid": 5513, "pred_relevant_windows": [[0, 150]]}
+{"qid": 5797, "pred_relevant_windows": [[22, 36]]}
+{"qid": 8976, "pred_relevant_windows": [[12, 26]]}
+{"qid": 9052, "pred_relevant_windows": [[0, 72]]}
+{"qid": 2755, "pred_relevant_windows": [[10, 12], [40, 46], [60, 66], [80, 86], [90, 92], [98, 106], [124, 130], [144, 148]]}
+{"qid": 4122, "pred_relevant_windows": [[108, 132]]}
+{"qid": 4786, "pred_relevant_windows": [[120, 142]]}
+{"qid": 8287, "pred_relevant_windows": [[108, 132]]}
+{"qid": 8565, "pred_relevant_windows": [[10, 40], [42, 44]]}
+{"qid": 1718, "pred_relevant_windows": [[126, 150]]}
+{"qid": 4839, "pred_relevant_windows": [[38, 60], [70, 96]]}
+{"qid": 5275, "pred_relevant_windows": [[108, 122]]}
+{"qid": 4080, "pred_relevant_windows": [[2, 22]]}
+{"qid": 4856, "pred_relevant_windows": [[46, 64]]}
+{"qid": 6163, "pred_relevant_windows": [[12, 26]]}
+{"qid": 7390, "pred_relevant_windows": [[10, 24], [26, 28], [30, 40], [42, 50], [54, 64], [70, 72], [74, 82], [84, 90], [96, 104], [106, 108], [116, 120], [124, 132], [134, 144]]}
+{"qid": 2647, "pred_relevant_windows": [[80, 122]]}
+{"qid": 2695, "pred_relevant_windows": [[82, 150]]}
+{"qid": 3898, "pred_relevant_windows": [[6, 22]]}
+{"qid": 6992, "pred_relevant_windows": [[24, 44], [46, 48]]}
+{"qid": 8293, "pred_relevant_windows": [[0, 150]]}
+{"qid": 4116, "pred_relevant_windows": [[70, 98]]}
+{"qid": 4972, "pred_relevant_windows": [[84, 118]]}
+{"qid": 2173, "pred_relevant_windows": [[0, 2], [10, 24], [38, 44], [66, 72], [96, 100], [124, 134], [144, 148]]}
+{"qid": 6358, "pred_relevant_windows": [[40, 66]]}
+{"qid": 7666, "pred_relevant_windows": [[38, 44], [48, 62], [70, 74], [78, 80], [112, 120], [128, 134], [138, 140], [146, 150]]}
+{"qid": 9440, "pred_relevant_windows": [[132, 150]]}
+{"qid": 9289, "pred_relevant_windows": [[106, 144]]}
+{"qid": 1436, "pred_relevant_windows": [[0, 26]]}
+{"qid": 3731, "pred_relevant_windows": [[0, 14], [26, 34]]}
+{"qid": 5058, "pred_relevant_windows": [[106, 132]]}
+{"qid": 7548, "pred_relevant_windows": [[72, 104]]}
+{"qid": 9779, "pred_relevant_windows": [[108, 122]]}
+{"qid": 3194, "pred_relevant_windows": [[108, 120], [122, 146]]}
+{"qid": 5428, "pred_relevant_windows": [[64, 88]]}
+{"qid": 6383, "pred_relevant_windows": [[108, 150]]}
+{"qid": 597, "pred_relevant_windows": [[120, 134]]}
+{"qid": 1626, "pred_relevant_windows": [[24, 46]]}
+{"qid": 5976, "pred_relevant_windows": [[100, 126]]}
+{"qid": 7707, "pred_relevant_windows": [[112, 144]]}
+{"qid": 7782, "pred_relevant_windows": [[108, 114], [120, 132], [136, 144]]}
+{"qid": 2202, "pred_relevant_windows": [[60, 84]]}
+{"qid": 3100, "pred_relevant_windows": [[84, 108]]}
+{"qid": 6809, "pred_relevant_windows": [[16, 42]]}
+{"qid": 9229, "pred_relevant_windows": [[0, 24], [36, 46], [50, 54], [60, 70], [74, 84], [88, 92], [96, 104], [114, 124], [126, 128], [132, 140], [144, 148]]}
+{"qid": 3658, "pred_relevant_windows": [[0, 128], [132, 136], [140, 144]]}
+{"qid": 3705, "pred_relevant_windows": [[0, 14]]}
+{"qid": 5998, "pred_relevant_windows": [[68, 104]]}
+{"qid": 8385, "pred_relevant_windows": [[126, 140]]}
+{"qid": 8861, "pred_relevant_windows": [[110, 128]]}
+{"qid": 1390, "pred_relevant_windows": [[32, 48]]}
+{"qid": 1450, "pred_relevant_windows": [[0, 0]]}
+{"qid": 3666, "pred_relevant_windows": [[44, 70]]}
+{"qid": 7139, "pred_relevant_windows": [[12, 60]]}
+{"qid": 8679, "pred_relevant_windows": [[46, 60]]}
+{"qid": 68, "pred_relevant_windows": [[84, 102]]}
+{"qid": 1300, "pred_relevant_windows": [[0, 62]]}
+{"qid": 2600, "pred_relevant_windows": [[120, 144]]}
+{"qid": 8549, "pred_relevant_windows": [[118, 132]]}
+{"qid": 8657, "pred_relevant_windows": [[120, 142]]}
+{"qid": 9624, "pred_relevant_windows": [[110, 150]]}
+{"qid": 9713, "pred_relevant_windows": [[0, 18]]}
+{"qid": 10226, "pred_relevant_windows": [[104, 130]]}
+{"qid": 967, "pred_relevant_windows": [[2, 150]]}
+{"qid": 4572, "pred_relevant_windows": [[60, 118]]}
+{"qid": 7981, "pred_relevant_windows": [[48, 72]]}
+{"qid": 1901, "pred_relevant_windows": [[32, 66], [68, 94], [96, 126]]}
+{"qid": 5754, "pred_relevant_windows": [[118, 150]]}
+{"qid": 2240, "pred_relevant_windows": [[74, 124]]}
+{"qid": 2988, "pred_relevant_windows": [[0, 28]]}
+{"qid": 3129, "pred_relevant_windows": [[68, 116]]}
+{"qid": 8977, "pred_relevant_windows": [[62, 84]]}
+{"qid": 5435, "pred_relevant_windows": [[102, 132]]}
+{"qid": 1777, "pred_relevant_windows": [[86, 110]]}
+{"qid": 2879, "pred_relevant_windows": [[56, 78]]}
+{"qid": 4112, "pred_relevant_windows": [[114, 138]]}
+{"qid": 7578, "pred_relevant_windows": [[28, 50]]}
+{"qid": 8900, "pred_relevant_windows": [[104, 128]]}
+{"qid": 1047, "pred_relevant_windows": [[24, 48], [64, 68], [72, 78], [80, 82], [84, 90]]}
+{"qid": 5468, "pred_relevant_windows": [[54, 68]]}
+{"qid": 5923, "pred_relevant_windows": [[108, 122]]}
+{"qid": 313, "pred_relevant_windows": [[110, 128]]}
+{"qid": 536, "pred_relevant_windows": [[52, 116]]}
+{"qid": 2616, "pred_relevant_windows": [[12, 44]]}
+{"qid": 8266, "pred_relevant_windows": [[0, 26]]}
+{"qid": 8747, "pred_relevant_windows": [[124, 144]]}
+{"qid": 10192, "pred_relevant_windows": [[10, 28], [30, 32], [46, 50], [64, 72], [106, 110], [118, 124], [130, 136], [146, 150]]}
+{"qid": 329, "pred_relevant_windows": [[0, 28]]}
+{"qid": 1532, "pred_relevant_windows": [[38, 76]]}
+{"qid": 2411, "pred_relevant_windows": [[66, 90]]}
+{"qid": 8606, "pred_relevant_windows": [[58, 74]]}
+{"qid": 8907, "pred_relevant_windows": [[26, 62]]}
+{"qid": 9381, "pred_relevant_windows": [[32, 58], [60, 62]]}
+{"qid": 4602, "pred_relevant_windows": [[26, 48]]}
+{"qid": 5902, "pred_relevant_windows": [[38, 134]]}
+{"qid": 7848, "pred_relevant_windows": [[24, 44]]}
+{"qid": 820, "pred_relevant_windows": [[64, 130]]}
+{"qid": 1855, "pred_relevant_windows": [[80, 124], [134, 138]]}
+{"qid": 7877, "pred_relevant_windows": [[10, 32]]}
+{"qid": 9927, "pred_relevant_windows": [[26, 52]]}
+{"qid": 10210, "pred_relevant_windows": [[0, 18]]}
+{"qid": 10267, "pred_relevant_windows": [[130, 146]]}
+{"qid": 2063, "pred_relevant_windows": [[84, 120]]}
+{"qid": 6546, "pred_relevant_windows": [[0, 44], [46, 122]]}
+{"qid": 7959, "pred_relevant_windows": [[102, 130]]}
+{"qid": 12, "pred_relevant_windows": [[64, 78], [84, 92]]}
+{"qid": 1337, "pred_relevant_windows": [[98, 112]]}
+{"qid": 5238, "pred_relevant_windows": [[110, 150]]}
+{"qid": 7585, "pred_relevant_windows": [[56, 70]]}
+{"qid": 8605, "pred_relevant_windows": [[82, 114]]}
+{"qid": 3416, "pred_relevant_windows": [[8, 24], [38, 42], [48, 56]]}
+{"qid": 6429, "pred_relevant_windows": [[0, 2], [4, 8], [14, 28], [36, 44], [48, 54], [56, 60], [64, 68], [70, 74], [76, 80], [84, 88], [100, 104], [106, 110], [112, 116], [118, 120], [124, 128], [130, 134], [136, 138], [140, 142], [146, 150]]}
+{"qid": 6634, "pred_relevant_windows": [[110, 130]]}
+{"qid": 9209, "pred_relevant_windows": [[8, 12], [16, 22], [28, 32], [34, 38], [40, 42], [44, 48], [50, 52], [56, 62], [66, 68], [72, 74], [76, 80], [84, 86], [90, 92], [96, 98], [102, 104], [106, 110], [112, 114], [116, 118], [122, 124], [126, 128], [132, 134], [136, 138], [140, 142], [144, 150]]}
+{"qid": 3011, "pred_relevant_windows": [[74, 116], [118, 120], [122, 124], [126, 128], [130, 132], [134, 136], [138, 140], [142, 144]]}
+{"qid": 4203, "pred_relevant_windows": [[116, 138]]}
+{"qid": 4499, "pred_relevant_windows": [[0, 48], [70, 150]]}
+{"qid": 3513, "pred_relevant_windows": [[48, 84]]}
+{"qid": 7746, "pred_relevant_windows": [[0, 30]]}
+{"qid": 7759, "pred_relevant_windows": [[96, 150]]}
+{"qid": 2587, "pred_relevant_windows": [[0, 64]]}
+{"qid": 2741, "pred_relevant_windows": [[48, 144]]}
+{"qid": 2890, "pred_relevant_windows": [[62, 150]]}
+{"qid": 2546, "pred_relevant_windows": [[112, 150]]}
+{"qid": 4838, "pred_relevant_windows": [[46, 64]]}
+{"qid": 9220, "pred_relevant_windows": [[40, 94]]}
+{"qid": 4389, "pred_relevant_windows": [[0, 150]]}
+{"qid": 4763, "pred_relevant_windows": [[0, 50], [58, 136]]}
+{"qid": 5537, "pred_relevant_windows": [[124, 138]]}
+{"qid": 9522, "pred_relevant_windows": [[0, 14]]}
+{"qid": 9884, "pred_relevant_windows": [[80, 96]]}
+{"qid": 10209, "pred_relevant_windows": [[20, 28], [30, 42]]}
+{"qid": 562, "pred_relevant_windows": [[96, 124]]}
+{"qid": 582, "pred_relevant_windows": [[108, 114], [118, 122], [126, 130], [142, 150]]}
+{"qid": 4151, "pred_relevant_windows": [[88, 120]]}
+{"qid": 1365, "pred_relevant_windows": [[0, 60]]}
+{"qid": 1414, "pred_relevant_windows": [[20, 22], [24, 26], [28, 30], [32, 34], [36, 38], [40, 42], [44, 46], [48, 50], [52, 54], [56, 58], [60, 62], [64, 66], [68, 70], [72, 74], [76, 78], [80, 82], [84, 86], [88, 90], [92, 94], [96, 98], [100, 102], [104, 110], [112, 114], [116, 118], [120, 122], [124, 126], [128, 130], [132, 134], [136, 138], [140, 142], [144, 146], [148, 150]]}
+{"qid": 5217, "pred_relevant_windows": [[98, 150]]}
+{"qid": 8450, "pred_relevant_windows": [[18, 32]]}
+{"qid": 8627, "pred_relevant_windows": [[110, 150]]}
+{"qid": 9597, "pred_relevant_windows": [[10, 28], [78, 82]]}
+{"qid": 9988, "pred_relevant_windows": [[116, 148]]}
+{"qid": 10217, "pred_relevant_windows": [[116, 130]]}
+{"qid": 3253, "pred_relevant_windows": [[48, 82]]}
+{"qid": 6815, "pred_relevant_windows": [[38, 52]]}
+{"qid": 8131, "pred_relevant_windows": [[6, 24]]}
+{"qid": 9016, "pred_relevant_windows": [[0, 0]]}
+{"qid": 9139, "pred_relevant_windows": [[2, 24]]}
+{"qid": 544, "pred_relevant_windows": [[0, 2], [56, 60], [64, 84]]}
+{"qid": 3766, "pred_relevant_windows": [[24, 38], [40, 42], [44, 56]]}
+{"qid": 5209, "pred_relevant_windows": [[0, 14], [22, 50], [54, 62], [64, 148]]}
+{"qid": 8323, "pred_relevant_windows": [[64, 80], [84, 92]]}
+{"qid": 8327, "pred_relevant_windows": [[0, 150]]}
+{"qid": 374, "pred_relevant_windows": [[8, 42]]}
+{"qid": 5333, "pred_relevant_windows": [[0, 26]]}
+{"qid": 6275, "pred_relevant_windows": [[36, 60]]}
+{"qid": 7421, "pred_relevant_windows": [[10, 38]]}
+{"qid": 8594, "pred_relevant_windows": [[0, 120]]}
+{"qid": 666, "pred_relevant_windows": [[122, 138]]}
+{"qid": 2166, "pred_relevant_windows": [[98, 146]]}
+{"qid": 3099, "pred_relevant_windows": [[0, 22]]}
+{"qid": 9712, "pred_relevant_windows": [[50, 66], [100, 114]]}
+{"qid": 9816, "pred_relevant_windows": [[0, 46]]}
+{"qid": 9903, "pred_relevant_windows": [[4, 150]]}
+{"qid": 1862, "pred_relevant_windows": [[0, 22]]}
+{"qid": 3003, "pred_relevant_windows": [[6, 24]]}
+{"qid": 5801, "pred_relevant_windows": [[32, 56]]}
+{"qid": 9056, "pred_relevant_windows": [[102, 116]]}
+{"qid": 4672, "pred_relevant_windows": [[0, 94], [96, 150]]}
+{"qid": 4704, "pred_relevant_windows": [[120, 134]]}
+{"qid": 7850, "pred_relevant_windows": [[50, 72]]}
+{"qid": 1158, "pred_relevant_windows": [[118, 132]]}
+{"qid": 2217, "pred_relevant_windows": [[28, 38], [44, 50]]}
+{"qid": 5762, "pred_relevant_windows": [[72, 94]]}
+{"qid": 9574, "pred_relevant_windows": [[2, 26]]}
+{"qid": 9653, "pred_relevant_windows": [[0, 2], [10, 12], [24, 40], [48, 50], [58, 62]]}
+{"qid": 9660, "pred_relevant_windows": [[10, 28]]}
+{"qid": 1057, "pred_relevant_windows": [[48, 52], [56, 78]]}
+{"qid": 4293, "pred_relevant_windows": [[0, 26], [28, 46], [48, 150]]}
+{"qid": 7836, "pred_relevant_windows": [[66, 108]]}
+{"qid": 9128, "pred_relevant_windows": [[120, 150]]}
+{"qid": 307, "pred_relevant_windows": [[0, 150]]}
+{"qid": 3608, "pred_relevant_windows": [[0, 150]]}
+{"qid": 3733, "pred_relevant_windows": [[0, 150]]}
+{"qid": 7011, "pred_relevant_windows": [[0, 150]]}
+{"qid": 2862, "pred_relevant_windows": [[0, 84]]}
+{"qid": 3623, "pred_relevant_windows": [[126, 144]]}
+{"qid": 6053, "pred_relevant_windows": [[18, 60]]}
+{"qid": 7294, "pred_relevant_windows": [[40, 66]]}
+{"qid": 8774, "pred_relevant_windows": [[114, 150]]}
+{"qid": 5758, "pred_relevant_windows": [[4, 150]]}
+{"qid": 7601, "pred_relevant_windows": [[2, 20]]}
+{"qid": 7670, "pred_relevant_windows": [[120, 150]]}
+{"qid": 9664, "pred_relevant_windows": [[28, 30], [68, 72], [78, 80], [84, 86], [110, 114], [120, 122], [124, 126]]}
+{"qid": 9917, "pred_relevant_windows": [[96, 132]]}
+{"qid": 10296, "pred_relevant_windows": [[12, 18], [24, 32], [36, 46]]}
+{"qid": 1342, "pred_relevant_windows": [[12, 32], [36, 44]]}
+{"qid": 1678, "pred_relevant_windows": [[10, 24], [32, 56], [64, 108], [112, 144]]}
+{"qid": 2545, "pred_relevant_windows": [[40, 80]]}
+{"qid": 7512, "pred_relevant_windows": [[120, 134]]}
+{"qid": 8340, "pred_relevant_windows": [[104, 132], [140, 146]]}
+{"qid": 1536, "pred_relevant_windows": [[0, 62]]}
+{"qid": 1783, "pred_relevant_windows": [[80, 122]]}
+{"qid": 5330, "pred_relevant_windows": [[52, 66]]}
+{"qid": 8382, "pred_relevant_windows": [[0, 62]]}
+{"qid": 8457, "pred_relevant_windows": [[0, 58]]}
+{"qid": 9251, "pred_relevant_windows": [[118, 132]]}
+{"qid": 4256, "pred_relevant_windows": [[104, 144]]}
+{"qid": 7591, "pred_relevant_windows": [[22, 70]]}
+{"qid": 8152, "pred_relevant_windows": [[0, 16]]}
+{"qid": 2322, "pred_relevant_windows": [[72, 118]]}
+{"qid": 5667, "pred_relevant_windows": [[30, 44]]}
+{"qid": 6543, "pred_relevant_windows": [[106, 150]]}
+{"qid": 1260, "pred_relevant_windows": [[56, 72]]}
+{"qid": 5114, "pred_relevant_windows": [[106, 120]]}
+{"qid": 5374, "pred_relevant_windows": [[38, 62]]}
+{"qid": 1386, "pred_relevant_windows": [[0, 10], [20, 50], [60, 72], [82, 90], [96, 150]]}
+{"qid": 1586, "pred_relevant_windows": [[60, 82], [94, 106]]}
+{"qid": 3952, "pred_relevant_windows": [[0, 38]]}
+{"qid": 7066, "pred_relevant_windows": [[70, 86]]}
+{"qid": 8375, "pred_relevant_windows": [[20, 56]]}
+{"qid": 755, "pred_relevant_windows": [[36, 58]]}
+{"qid": 2126, "pred_relevant_windows": [[26, 56], [58, 124]]}
+{"qid": 5687, "pred_relevant_windows": [[8, 24]]}
+{"qid": 10273, "pred_relevant_windows": [[0, 22], [26, 38], [40, 52], [54, 64], [66, 72], [76, 86], [96, 102], [108, 118], [120, 126], [130, 134]]}
+{"qid": 3318, "pred_relevant_windows": [[26, 54], [56, 60], [64, 70], [72, 74]]}
+{"qid": 6484, "pred_relevant_windows": [[42, 72]]}
+{"qid": 6836, "pred_relevant_windows": [[52, 150]]}
+{"qid": 9133, "pred_relevant_windows": [[110, 132]]}
+{"qid": 580, "pred_relevant_windows": [[132, 150]]}
+{"qid": 1564, "pred_relevant_windows": [[0, 124], [126, 150]]}
+{"qid": 2570, "pred_relevant_windows": [[0, 44]]}
+{"qid": 7188, "pred_relevant_windows": [[0, 54]]}
+{"qid": 807, "pred_relevant_windows": [[0, 20]]}
+{"qid": 1893, "pred_relevant_windows": [[8, 48]]}
+{"qid": 5950, "pred_relevant_windows": [[4, 18]]}
+{"qid": 1268, "pred_relevant_windows": [[66, 118]]}
+{"qid": 3925, "pred_relevant_windows": [[0, 14]]}
+{"qid": 5059, "pred_relevant_windows": [[0, 150]]}
+{"qid": 7373, "pred_relevant_windows": [[18, 22], [24, 40], [42, 150]]}
+{"qid": 8356, "pred_relevant_windows": [[126, 150]]}
+{"qid": 210, "pred_relevant_windows": [[0, 26]]}
+{"qid": 381, "pred_relevant_windows": [[70, 106]]}
+{"qid": 482, "pred_relevant_windows": [[70, 100]]}
+{"qid": 6957, "pred_relevant_windows": [[56, 70]]}
+{"qid": 7412, "pred_relevant_windows": [[10, 30]]}
+{"qid": 1894, "pred_relevant_windows": [[100, 122], [128, 150]]}
+{"qid": 3296, "pred_relevant_windows": [[4, 42]]}
+{"qid": 7826, "pred_relevant_windows": [[48, 72], [76, 94]]}
+{"qid": 2124, "pred_relevant_windows": [[0, 40]]}
+{"qid": 2342, "pred_relevant_windows": [[0, 40]]}
+{"qid": 4510, "pred_relevant_windows": [[88, 96], [100, 110]]}
+{"qid": 3532, "pred_relevant_windows": [[0, 10], [12, 150]]}
+{"qid": 4573, "pred_relevant_windows": [[0, 22], [24, 38], [40, 48]]}
+{"qid": 5838, "pred_relevant_windows": [[110, 128]]}
+{"qid": 2326, "pred_relevant_windows": [[16, 30]]}
+{"qid": 3086, "pred_relevant_windows": [[52, 78]]}
+{"qid": 8066, "pred_relevant_windows": [[106, 146]]}
+{"qid": 9077, "pred_relevant_windows": [[110, 130]]}
+{"qid": 1739, "pred_relevant_windows": [[16, 48]]}
+{"qid": 3779, "pred_relevant_windows": [[18, 42]]}
+{"qid": 4163, "pred_relevant_windows": [[104, 150]]}
+{"qid": 6993, "pred_relevant_windows": [[2, 26]]}
+{"qid": 8560, "pred_relevant_windows": [[96, 130]]}
+{"qid": 267, "pred_relevant_windows": [[0, 124]]}
+{"qid": 4959, "pred_relevant_windows": [[0, 150]]}
+{"qid": 2340, "pred_relevant_windows": [[0, 150]]}
+{"qid": 6565, "pred_relevant_windows": [[74, 92]]}
+{"qid": 8220, "pred_relevant_windows": [[70, 92]]}
+{"qid": 9026, "pred_relevant_windows": [[14, 30], [36, 46]]}
+{"qid": 2334, "pred_relevant_windows": [[0, 32]]}
+{"qid": 5765, "pred_relevant_windows": [[0, 26]]}
+{"qid": 5856, "pred_relevant_windows": [[64, 80]]}
+{"qid": 9474, "pred_relevant_windows": [[32, 36], [64, 86]]}
+{"qid": 9483, "pred_relevant_windows": [[32, 48]]}
+{"qid": 1800, "pred_relevant_windows": [[74, 112]]}
+{"qid": 1859, "pred_relevant_windows": [[128, 150]]}
+{"qid": 6431, "pred_relevant_windows": [[10, 32], [36, 42]]}
+{"qid": 963, "pred_relevant_windows": [[14, 48]]}
+{"qid": 3242, "pred_relevant_windows": [[40, 92]]}
+{"qid": 7825, "pred_relevant_windows": [[74, 88], [94, 102]]}
+{"qid": 3773, "pred_relevant_windows": [[12, 26]]}
+{"qid": 6047, "pred_relevant_windows": [[10, 44]]}
+{"qid": 10082, "pred_relevant_windows": [[92, 118]]}
+{"qid": 1940, "pred_relevant_windows": [[94, 134]]}
+{"qid": 4689, "pred_relevant_windows": [[64, 100]]}
+{"qid": 5864, "pred_relevant_windows": [[0, 18]]}
+{"qid": 9545, "pred_relevant_windows": [[78, 124]]}
+{"qid": 9985, "pred_relevant_windows": [[12, 26]]}
+{"qid": 10309, "pred_relevant_windows": [[10, 28], [76, 84], [132, 140], [146, 150]]}
+{"qid": 5679, "pred_relevant_windows": [[10, 24], [48, 56]]}
+{"qid": 6824, "pred_relevant_windows": [[44, 70]]}
+{"qid": 7960, "pred_relevant_windows": [[134, 150]]}
+{"qid": 1285, "pred_relevant_windows": [[6, 8], [16, 20], [128, 132], [142, 146]]}
+{"qid": 2969, "pred_relevant_windows": [[6, 32]]}
+{"qid": 2977, "pred_relevant_windows": [[4, 42]]}
+{"qid": 9214, "pred_relevant_windows": [[48, 150]]}
+{"qid": 9304, "pred_relevant_windows": [[10, 12], [52, 80]]}
+{"qid": 3852, "pred_relevant_windows": [[106, 130]]}
+{"qid": 4099, "pred_relevant_windows": [[48, 80]]}
+{"qid": 4796, "pred_relevant_windows": [[0, 124], [126, 150]]}
+{"qid": 7117, "pred_relevant_windows": [[104, 130]]}
+{"qid": 1018, "pred_relevant_windows": [[12, 14], [16, 24], [32, 36], [40, 44], [50, 54], [58, 62], [66, 70], [74, 78], [84, 86], [92, 96], [106, 110], [116, 122], [128, 134], [138, 140], [144, 146], [148, 150]]}
+{"qid": 5958, "pred_relevant_windows": [[104, 132]]}
+{"qid": 6749, "pred_relevant_windows": [[12, 36]]}
+{"qid": 9878, "pred_relevant_windows": [[2, 22], [46, 60]]}
+{"qid": 10063, "pred_relevant_windows": [[132, 150]]}
+{"qid": 10196, "pred_relevant_windows": [[118, 120], [124, 132], [136, 140]]}
+{"qid": 137, "pred_relevant_windows": [[114, 130]]}
+{"qid": 457, "pred_relevant_windows": [[30, 58]]}
+{"qid": 2739, "pred_relevant_windows": [[56, 80]]}
+{"qid": 3615, "pred_relevant_windows": [[52, 78], [80, 82], [84, 86], [90, 150]]}
+{"qid": 5164, "pred_relevant_windows": [[16, 44]]}
+{"qid": 7046, "pred_relevant_windows": [[28, 58], [60, 62], [64, 66], [70, 72], [76, 78], [80, 82], [84, 86], [90, 92], [96, 98], [102, 104], [106, 108], [112, 114], [116, 118], [120, 122], [124, 126], [128, 130], [132, 134], [136, 138], [140, 142], [144, 146]]}
+{"qid": 8750, "pred_relevant_windows": [[0, 28]]}
+{"qid": 344, "pred_relevant_windows": [[12, 24], [28, 34]]}
+{"qid": 1324, "pred_relevant_windows": [[76, 150]]}
+{"qid": 4098, "pred_relevant_windows": [[106, 122]]}
+{"qid": 5304, "pred_relevant_windows": [[46, 70]]}
+{"qid": 6075, "pred_relevant_windows": [[0, 8], [10, 28], [30, 46], [48, 60]]}
+{"qid": 6241, "pred_relevant_windows": [[0, 36]]}
+{"qid": 8676, "pred_relevant_windows": [[60, 86]]}
+{"qid": 8821, "pred_relevant_windows": [[2, 24]]}
+{"qid": 3249, "pred_relevant_windows": [[112, 144]]}
+{"qid": 4647, "pred_relevant_windows": [[24, 38], [46, 76], [80, 136], [142, 150]]}
+{"qid": 7972, "pred_relevant_windows": [[98, 112]]}
+{"qid": 9636, "pred_relevant_windows": [[0, 4], [10, 14], [16, 20], [22, 28], [30, 34], [36, 38], [40, 44], [46, 48], [56, 60], [64, 68], [70, 72], [76, 80], [84, 88], [90, 92], [96, 100], [102, 106], [112, 116], [120, 124], [126, 130], [134, 138], [140, 144]]}
+{"qid": 9703, "pred_relevant_windows": [[0, 10], [16, 44], [48, 150]]}
+{"qid": 9823, "pred_relevant_windows": [[44, 134]]}
+{"qid": 1309, "pred_relevant_windows": [[0, 34]]}
+{"qid": 1665, "pred_relevant_windows": [[10, 44]]}
+{"qid": 2791, "pred_relevant_windows": [[112, 150]]}
+{"qid": 6987, "pred_relevant_windows": [[12, 48]]}
+{"qid": 7468, "pred_relevant_windows": [[2, 42]]}
+{"qid": 322, "pred_relevant_windows": [[96, 110]]}
+{"qid": 2557, "pred_relevant_windows": [[116, 130]]}
+{"qid": 6093, "pred_relevant_windows": [[74, 110]]}
+{"qid": 7569, "pred_relevant_windows": [[120, 136]]}
+{"qid": 8524, "pred_relevant_windows": [[4, 40]]}
+{"qid": 10018, "pred_relevant_windows": [[126, 144]]}
+{"qid": 1982, "pred_relevant_windows": [[38, 66], [72, 80]]}
+{"qid": 5671, "pred_relevant_windows": [[28, 48], [56, 78]]}
+{"qid": 6308, "pred_relevant_windows": [[40, 72]]}
+{"qid": 9862, "pred_relevant_windows": [[56, 72], [74, 82]]}
+{"qid": 10022, "pred_relevant_windows": [[0, 14]]}
+{"qid": 5480, "pred_relevant_windows": [[2, 36]]}
+{"qid": 5532, "pred_relevant_windows": [[0, 150]]}
+{"qid": 6316, "pred_relevant_windows": [[6, 26]]}
+{"qid": 5548, "pred_relevant_windows": [[108, 122]]}
+{"qid": 5592, "pred_relevant_windows": [[12, 26]]}
+{"qid": 5836, "pred_relevant_windows": [[58, 72]]}
+{"qid": 1849, "pred_relevant_windows": [[0, 4], [6, 8], [10, 12], [14, 16], [20, 22], [28, 30], [32, 34], [40, 42], [44, 46], [54, 56], [60, 62], [66, 68], [72, 74], [76, 80], [86, 90], [92, 94], [96, 100], [102, 106], [112, 116], [124, 130], [134, 140], [142, 146], [148, 150]]}
+{"qid": 6658, "pred_relevant_windows": [[24, 40]]}
+{"qid": 9450, "pred_relevant_windows": [[0, 40], [72, 150]]}
+{"qid": 587, "pred_relevant_windows": [[0, 20]]}
+{"qid": 1685, "pred_relevant_windows": [[8, 150]]}
+{"qid": 2479, "pred_relevant_windows": [[10, 24], [26, 32]]}
+{"qid": 7364, "pred_relevant_windows": [[64, 114], [116, 118], [120, 122], [124, 126], [128, 130], [132, 134], [136, 138], [140, 142]]}
+{"qid": 8813, "pred_relevant_windows": [[0, 32]]}
+{"qid": 124, "pred_relevant_windows": [[62, 86]]}
+{"qid": 424, "pred_relevant_windows": [[0, 28]]}
+{"qid": 4909, "pred_relevant_windows": [[0, 66]]}
+{"qid": 7467, "pred_relevant_windows": [[86, 102]]}
+{"qid": 1054, "pred_relevant_windows": [[66, 70], [74, 102]]}
+{"qid": 1830, "pred_relevant_windows": [[66, 88]]}
+{"qid": 4637, "pred_relevant_windows": [[128, 150]]}
+{"qid": 8984, "pred_relevant_windows": [[38, 56]]}
+{"qid": 2248, "pred_relevant_windows": [[56, 70]]}
+{"qid": 3056, "pred_relevant_windows": [[90, 122]]}
+{"qid": 4559, "pred_relevant_windows": [[84, 108]]}
+{"qid": 3126, "pred_relevant_windows": [[0, 10], [52, 62], [66, 70]]}
+{"qid": 6519, "pred_relevant_windows": [[0, 16]]}
+{"qid": 8061, "pred_relevant_windows": [[36, 78], [84, 90]]}
+{"qid": 9537, "pred_relevant_windows": [[86, 150]]}
+{"qid": 1319, "pred_relevant_windows": [[116, 142]]}
+{"qid": 5070, "pred_relevant_windows": [[102, 124]]}
+{"qid": 6192, "pred_relevant_windows": [[102, 138], [140, 142]]}
+{"qid": 8320, "pred_relevant_windows": [[94, 136]]}
+{"qid": 8542, "pred_relevant_windows": [[84, 150]]}
+{"qid": 4509, "pred_relevant_windows": [[116, 130]]}
+{"qid": 8156, "pred_relevant_windows": [[54, 72]]}
+{"qid": 245, "pred_relevant_windows": [[16, 30]]}
+{"qid": 1251, "pred_relevant_windows": [[62, 86]]}
+{"qid": 3951, "pred_relevant_windows": [[50, 150]]}
+{"qid": 7070, "pred_relevant_windows": [[108, 132]]}
+{"qid": 8709, "pred_relevant_windows": [[12, 38]]}
+{"qid": 2148, "pred_relevant_windows": [[74, 84], [86, 150]]}
+{"qid": 5879, "pred_relevant_windows": [[72, 88]]}
+{"qid": 8143, "pred_relevant_windows": [[64, 112], [116, 120], [124, 128]]}
+{"qid": 1109, "pred_relevant_windows": [[0, 26]]}
+{"qid": 1123, "pred_relevant_windows": [[94, 114], [116, 120]]}
+{"qid": 3275, "pred_relevant_windows": [[90, 114]]}
+{"qid": 3498, "pred_relevant_windows": [[24, 60]]}
+{"qid": 5694, "pred_relevant_windows": [[54, 88]]}
+{"qid": 728, "pred_relevant_windows": [[60, 84]]}
+{"qid": 2149, "pred_relevant_windows": [[30, 58], [60, 72]]}
+{"qid": 5723, "pred_relevant_windows": [[50, 74]]}
+{"qid": 1970, "pred_relevant_windows": [[42, 92]]}
+{"qid": 7946, "pred_relevant_windows": [[0, 36]]}
+{"qid": 8216, "pred_relevant_windows": [[46, 64]]}
+{"qid": 2274, "pred_relevant_windows": [[2, 12], [14, 18], [20, 26], [28, 40], [42, 48], [50, 56], [58, 64], [66, 72], [74, 78], [80, 86], [88, 94], [96, 100], [102, 108], [110, 112], [114, 118], [120, 126], [128, 134], [136, 138], [140, 142], [144, 150]]}
+{"qid": 3252, "pred_relevant_windows": [[0, 128]]}
+{"qid": 6445, "pred_relevant_windows": [[18, 136]]}
+{"qid": 1004, "pred_relevant_windows": [[60, 62], [70, 74], [82, 90], [96, 102], [108, 112], [118, 120], [124, 130], [136, 142], [146, 150]]}
+{"qid": 5730, "pred_relevant_windows": [[26, 30], [32, 36], [38, 42], [46, 52]]}
+{"qid": 8182, "pred_relevant_windows": [[116, 138]]}
+{"qid": 9061, "pred_relevant_windows": [[28, 48], [52, 64]]}
+{"qid": 9671, "pred_relevant_windows": [[30, 48]]}
+{"qid": 9690, "pred_relevant_windows": [[4, 22], [32, 38], [46, 74]]}
+{"qid": 9879, "pred_relevant_windows": [[0, 14]]}
+{"qid": 3355, "pred_relevant_windows": [[0, 42]]}
+{"qid": 6618, "pred_relevant_windows": [[34, 56]]}
+{"qid": 8204, "pred_relevant_windows": [[0, 36]]}
+{"qid": 3727, "pred_relevant_windows": [[0, 8], [18, 58]]}
+{"qid": 3857, "pred_relevant_windows": [[0, 10], [12, 50], [54, 60], [64, 150]]}
+{"qid": 3995, "pred_relevant_windows": [[118, 140]]}
+{"qid": 7055, "pred_relevant_windows": [[0, 22]]}
+{"qid": 8927, "pred_relevant_windows": [[4, 24]]}
+{"qid": 9479, "pred_relevant_windows": [[12, 26]]}
+{"qid": 9485, "pred_relevant_windows": [[0, 28], [30, 36], [40, 150]]}
+{"qid": 9489, "pred_relevant_windows": [[126, 148]]}
+{"qid": 1223, "pred_relevant_windows": [[4, 110]]}
+{"qid": 2418, "pred_relevant_windows": [[62, 136]]}
+{"qid": 2758, "pred_relevant_windows": [[12, 120]]}
+{"qid": 522, "pred_relevant_windows": [[58, 84]]}
+{"qid": 3830, "pred_relevant_windows": [[64, 90]]}
+{"qid": 4791, "pred_relevant_windows": [[0, 44]]}
+{"qid": 7000, "pred_relevant_windows": [[4, 8], [18, 126]]}
+{"qid": 8488, "pred_relevant_windows": [[120, 134]]}
+{"qid": 9854, "pred_relevant_windows": [[2, 24], [86, 90], [96, 102], [120, 126], [132, 136]]}
+{"qid": 9980, "pred_relevant_windows": [[120, 150]]}
+{"qid": 10003, "pred_relevant_windows": [[12, 46]]}
+{"qid": 625, "pred_relevant_windows": [[0, 30]]}
+{"qid": 938, "pred_relevant_windows": [[106, 122]]}
+{"qid": 4713, "pred_relevant_windows": [[78, 144]]}
+{"qid": 1214, "pred_relevant_windows": [[6, 16], [17, 56]]}
+{"qid": 4974, "pred_relevant_windows": [[22, 80]]}
+{"qid": 4978, "pred_relevant_windows": [[128, 150]]}
+{"qid": 1462, "pred_relevant_windows": [[0, 16]]}
+{"qid": 1495, "pred_relevant_windows": [[14, 58]]}
+{"qid": 6267, "pred_relevant_windows": [[10, 34]]}
+{"qid": 854, "pred_relevant_windows": [[12, 26]]}
+{"qid": 1919, "pred_relevant_windows": [[24, 58]]}
+{"qid": 5821, "pred_relevant_windows": [[12, 28], [148, 150]]}
+{"qid": 230, "pred_relevant_windows": [[60, 80]]}
+{"qid": 252, "pred_relevant_windows": [[0, 36]]}
+{"qid": 1797, "pred_relevant_windows": [[14, 116]]}
+{"qid": 6980, "pred_relevant_windows": [[126, 150]]}
+{"qid": 911, "pred_relevant_windows": [[86, 110]]}
+{"qid": 2256, "pred_relevant_windows": [[94, 150]]}
+{"qid": 3076, "pred_relevant_windows": [[2, 20], [28, 36]]}
+{"qid": 2277, "pred_relevant_windows": [[12, 36]]}
+{"qid": 7724, "pred_relevant_windows": [[100, 124]]}
+{"qid": 8084, "pred_relevant_windows": [[58, 86], [94, 108]]}
+{"qid": 2429, "pred_relevant_windows": [[0, 72]]}
+{"qid": 2611, "pred_relevant_windows": [[6, 26]]}
+{"qid": 3325, "pred_relevant_windows": [[0, 139]]}
+{"qid": 3566, "pred_relevant_windows": [[66, 86], [90, 114]]}
+{"qid": 4785, "pred_relevant_windows": [[10, 24], [28, 32]]}
+{"qid": 6370, "pred_relevant_windows": [[2, 24]]}
+{"qid": 1997, "pred_relevant_windows": [[0, 26]]}
+{"qid": 3290, "pred_relevant_windows": [[10, 14], [16, 130]]}
+{"qid": 7745, "pred_relevant_windows": [[100, 124]]}
+{"qid": 711, "pred_relevant_windows": [[42, 66]]}
+{"qid": 2374, "pred_relevant_windows": [[122, 146]]}
+{"qid": 1211, "pred_relevant_windows": [[66, 82]]}
+{"qid": 4934, "pred_relevant_windows": [[40, 48], [50, 64]]}
+{"qid": 6228, "pred_relevant_windows": [[0, 30], [36, 46]]}
+{"qid": 7215, "pred_relevant_windows": [[42, 48], [50, 54], [56, 62], [66, 76], [82, 88], [94, 102], [106, 110], [114, 124], [126, 132], [136, 140], [146, 150]]}
+{"qid": 7441, "pred_relevant_windows": [[12, 14], [24, 48]]}
+{"qid": 2486, "pred_relevant_windows": [[0, 150]]}
+{"qid": 2808, "pred_relevant_windows": [[36, 60]]}
+{"qid": 7001, "pred_relevant_windows": [[100, 120]]}
+{"qid": 8478, "pred_relevant_windows": [[40, 94]]}
+{"qid": 1389, "pred_relevant_windows": [[110, 150]]}
+{"qid": 2214, "pred_relevant_windows": [[0, 56]]}
+{"qid": 4814, "pred_relevant_windows": [[30, 50]]}
+{"qid": 5246, "pred_relevant_windows": [[0, 18], [20, 56], [60, 150]]}
+{"qid": 6410, "pred_relevant_windows": [[36, 60]]}
+{"qid": 7654, "pred_relevant_windows": [[112, 150]]}
+{"qid": 10234, "pred_relevant_windows": [[108, 124], [126, 128]]}
+{"qid": 588, "pred_relevant_windows": [[4, 24], [38, 150]]}
+{"qid": 1335, "pred_relevant_windows": [[24, 52]]}
+{"qid": 3703, "pred_relevant_windows": [[56, 60], [134, 142], [148, 150]]}
+{"qid": 7299, "pred_relevant_windows": [[122, 136]]}
+{"qid": 8295, "pred_relevant_windows": [[60, 134]]}
+{"qid": 778, "pred_relevant_windows": [[42, 134]]}
+{"qid": 5775, "pred_relevant_windows": [[6, 24]]}
+{"qid": 6532, "pred_relevant_windows": [[94, 116]]}
+{"qid": 32, "pred_relevant_windows": [[0, 28]]}
+{"qid": 2405, "pred_relevant_windows": [[62, 86]]}
+{"qid": 6019, "pred_relevant_windows": [[16, 32]]}
+{"qid": 8666, "pred_relevant_windows": [[122, 144]]}
+{"qid": 8937, "pred_relevant_windows": [[0, 150]]}
+{"qid": 683, "pred_relevant_windows": [[120, 136]]}
+{"qid": 2226, "pred_relevant_windows": [[20, 48]]}
+{"qid": 5964, "pred_relevant_windows": [[18, 36]]}
+{"qid": 953, "pred_relevant_windows": [[10, 34], [36, 68]]}
+{"qid": 4485, "pred_relevant_windows": [[32, 50]]}
+{"qid": 5772, "pred_relevant_windows": [[72, 102]]}
+{"qid": 4982, "pred_relevant_windows": [[18, 34]]}
+{"qid": 5037, "pred_relevant_windows": [[18, 62]]}
+{"qid": 5299, "pred_relevant_windows": [[44, 62]]}
+{"qid": 8358, "pred_relevant_windows": [[100, 134]]}
+{"qid": 8514, "pred_relevant_windows": [[48, 72]]}
+{"qid": 2320, "pred_relevant_windows": [[0, 46]]}
+{"qid": 4314, "pred_relevant_windows": [[0, 36]]}
+{"qid": 507, "pred_relevant_windows": [[0, 14]]}
+{"qid": 5130, "pred_relevant_windows": [[26, 46]]}
+{"qid": 6063, "pred_relevant_windows": [[0, 50]]}
+{"qid": 6909, "pred_relevant_windows": [[10, 40], [42, 50]]}
+{"qid": 7174, "pred_relevant_windows": [[12, 36]]}
+{"qid": 765, "pred_relevant_windows": [[22, 52]]}
+{"qid": 2205, "pred_relevant_windows": [[8, 36]]}
+{"qid": 6574, "pred_relevant_windows": [[30, 66], [70, 94], [96, 108]]}
+{"qid": 2783, "pred_relevant_windows": [[112, 134]]}
+{"qid": 5193, "pred_relevant_windows": [[0, 150]]}
+{"qid": 6052, "pred_relevant_windows": [[24, 48]]}
+{"qid": 7311, "pred_relevant_windows": [[16, 52]]}
+{"qid": 7410, "pred_relevant_windows": [[2, 8], [18, 22], [24, 30], [36, 44]]}
+{"qid": 1221, "pred_relevant_windows": [[104, 126]]}
+{"qid": 1464, "pred_relevant_windows": [[26, 60]]}
+{"qid": 4847, "pred_relevant_windows": [[112, 142]]}
+{"qid": 1304, "pred_relevant_windows": [[80, 102], [120, 122]]}
+{"qid": 1724, "pred_relevant_windows": [[60, 120], [126, 150]]}
+{"qid": 6084, "pred_relevant_windows": [[18, 34]]}
+{"qid": 7035, "pred_relevant_windows": [[20, 34]]}
+{"qid": 8675, "pred_relevant_windows": [[0, 4], [10, 14], [20, 22], [36, 40], [52, 54], [64, 66], [72, 76], [80, 82], [90, 92], [96, 98], [102, 104], [106, 110], [116, 118], [124, 126], [128, 130], [136, 138], [140, 142], [144, 150]]}
+{"qid": 10006, "pred_relevant_windows": [[2, 20]]}
+{"qid": 623, "pred_relevant_windows": [[10, 32]]}
+{"qid": 972, "pred_relevant_windows": [[20, 26], [30, 58]]}
+{"qid": 3164, "pred_relevant_windows": [[8, 30]]}
+{"qid": 9554, "pred_relevant_windows": [[32, 60]]}
+{"qid": 9746, "pred_relevant_windows": [[26, 34], [36, 44]]}
+{"qid": 10099, "pred_relevant_windows": [[84, 104], [118, 136]]}
+{"qid": 9266, "pred_relevant_windows": [[32, 74], [76, 116]]}
+{"qid": 1906, "pred_relevant_windows": [[114, 150]]}
+{"qid": 4242, "pred_relevant_windows": [[0, 16]]}
+{"qid": 4281, "pred_relevant_windows": [[0, 38]]}
+{"qid": 2355, "pred_relevant_windows": [[0, 0]]}
+{"qid": 3576, "pred_relevant_windows": [[0, 14]]}
+{"qid": 5764, "pred_relevant_windows": [[62, 86]]}
+{"qid": 296, "pred_relevant_windows": [[10, 36]]}
+{"qid": 4135, "pred_relevant_windows": [[56, 80]]}
+{"qid": 4884, "pred_relevant_windows": [[100, 120]]}
+{"qid": 8859, "pred_relevant_windows": [[106, 130]]}
+{"qid": 2822, "pred_relevant_windows": [[34, 126]]}
+{"qid": 3629, "pred_relevant_windows": [[104, 142]]}
+{"qid": 6206, "pred_relevant_windows": [[2, 10], [66, 70], [78, 84], [100, 106]]}
+{"qid": 237, "pred_relevant_windows": [[38, 58]]}
+{"qid": 1261, "pred_relevant_windows": [[48, 72]]}
+{"qid": 3851, "pred_relevant_windows": [[116, 130]]}
+{"qid": 7348, "pred_relevant_windows": [[46, 72]]}
+{"qid": 1842, "pred_relevant_windows": [[88, 90], [98, 114]]}
+{"qid": 1938, "pred_relevant_windows": [[58, 112]]}
+{"qid": 8206, "pred_relevant_windows": [[14, 28]]}
+{"qid": 411, "pred_relevant_windows": [[0, 8], [18, 22], [32, 36], [42, 48], [54, 58], [64, 68]]}
+{"qid": 2861, "pred_relevant_windows": [[54, 136]]}
+{"qid": 3747, "pred_relevant_windows": [[0, 16], [82, 150]]}
+{"qid": 8309, "pred_relevant_windows": [[4, 12], [22, 56], [60, 66], [72, 78], [84, 92], [98, 104], [110, 116], [122, 130], [134, 144], [146, 150]]}
+{"qid": 8824, "pred_relevant_windows": [[96, 150]]}
+{"qid": 9236, "pred_relevant_windows": [[0, 12], [14, 48], [50, 74], [76, 82], [86, 96], [100, 104], [110, 114], [116, 132], [136, 150]]}
+{"qid": 1836, "pred_relevant_windows": [[98, 150]]}
+{"qid": 5394, "pred_relevant_windows": [[18, 32], [36, 40], [48, 52], [54, 58]]}
+{"qid": 3247, "pred_relevant_windows": [[98, 120]]}
+{"qid": 3354, "pred_relevant_windows": [[8, 52]]}
+{"qid": 4240, "pred_relevant_windows": [[106, 124]]}
+{"qid": 873, "pred_relevant_windows": [[44, 72]]}
+{"qid": 2208, "pred_relevant_windows": [[94, 150]]}
+{"qid": 6441, "pred_relevant_windows": [[110, 150]]}
+{"qid": 9544, "pred_relevant_windows": [[50, 66], [76, 80]]}
+{"qid": 10117, "pred_relevant_windows": [[12, 32]]}
+{"qid": 10132, "pred_relevant_windows": [[0, 26], [30, 104], [106, 124], [126, 150]]}
+{"qid": 9510, "pred_relevant_windows": [[32, 64]]}
+{"qid": 456, "pred_relevant_windows": [[66, 70], [78, 92]]}
+{"qid": 2556, "pred_relevant_windows": [[16, 58]]}
+{"qid": 2669, "pred_relevant_windows": [[52, 150]]}
+{"qid": 7271, "pred_relevant_windows": [[126, 150]]}
+{"qid": 7571, "pred_relevant_windows": [[72, 112]]}
+{"qid": 682, "pred_relevant_windows": [[48, 52], [54, 58], [60, 62], [64, 68], [70, 78]]}
+{"qid": 4512, "pred_relevant_windows": [[32, 78]]}
+{"qid": 3388, "pred_relevant_windows": [[14, 36], [124, 150]]}
+{"qid": 4287, "pred_relevant_windows": [[6, 118]]}
+{"qid": 6419, "pred_relevant_windows": [[0, 60]]}
+{"qid": 9140, "pred_relevant_windows": [[134, 150]]}
+{"qid": 686, "pred_relevant_windows": [[0, 150]]}
+{"qid": 2093, "pred_relevant_windows": [[30, 66]]}
+{"qid": 2309, "pred_relevant_windows": [[14, 54]]}
+{"qid": 532, "pred_relevant_windows": [[102, 122]]}
+{"qid": 1395, "pred_relevant_windows": [[0, 10], [12, 150]]}
+{"qid": 3602, "pred_relevant_windows": [[110, 126]]}
+{"qid": 7138, "pred_relevant_windows": [[70, 88]]}
+{"qid": 7398, "pred_relevant_windows": [[110, 124]]}
+{"qid": 851, "pred_relevant_windows": [[12, 18], [20, 24], [26, 32], [34, 48]]}
+{"qid": 965, "pred_relevant_windows": [[78, 126]]}
+{"qid": 6778, "pred_relevant_windows": [[116, 150]]}
+{"qid": 4723, "pred_relevant_windows": [[0, 150]]}
+{"qid": 5783, "pred_relevant_windows": [[110, 124]]}
+{"qid": 8173, "pred_relevant_windows": [[54, 56], [58, 86]]}
+{"qid": 1950, "pred_relevant_windows": [[4, 16], [28, 42]]}
+{"qid": 2008, "pred_relevant_windows": [[0, 48]]}
+{"qid": 7783, "pred_relevant_windows": [[14, 28]]}
+{"qid": 1960, "pred_relevant_windows": [[4, 38]]}
+{"qid": 3070, "pred_relevant_windows": [[26, 78], [80, 86], [92, 100], [140, 146]]}
+{"qid": 4370, "pred_relevant_windows": [[18, 126]]}
+{"qid": 3030, "pred_relevant_windows": [[58, 118]]}
+{"qid": 4237, "pred_relevant_windows": [[2, 150]]}
+{"qid": 4673, "pred_relevant_windows": [[104, 120]]}
+{"qid": 395, "pred_relevant_windows": [[106, 116], [122, 130], [134, 142]]}
+{"qid": 4837, "pred_relevant_windows": [[68, 88]]}
+{"qid": 5250, "pred_relevant_windows": [[102, 150]]}
+{"qid": 7314, "pred_relevant_windows": [[44, 52], [62, 66], [76, 86], [96, 102]]}
+{"qid": 8294, "pred_relevant_windows": [[26, 44]]}
+{"qid": 1070, "pred_relevant_windows": [[130, 144]]}
+{"qid": 3476, "pred_relevant_windows": [[82, 100], [108, 112]]}
+{"qid": 5826, "pred_relevant_windows": [[12, 48]]}
+{"qid": 9376, "pred_relevant_windows": [[0, 76], [78, 127]]}
+{"qid": 1254, "pred_relevant_windows": [[58, 78]]}
+{"qid": 1555, "pred_relevant_windows": [[60, 94]]}
+{"qid": 6226, "pred_relevant_windows": [[70, 100]]}
+{"qid": 2302, "pred_relevant_windows": [[2, 16], [26, 34]]}
+{"qid": 6700, "pred_relevant_windows": [[0, 10], [12, 20], [22, 28], [30, 38], [40, 46], [50, 54], [56, 64], [66, 70], [72, 80], [84, 90], [92, 96], [100, 110], [114, 122], [126, 134], [136, 142], [146, 150]]}
+{"qid": 6742, "pred_relevant_windows": [[0, 12], [14, 18], [30, 36], [48, 56], [60, 64], [68, 72], [76, 80], [84, 88], [110, 114]]}
+{"qid": 1046, "pred_relevant_windows": [[44, 60]]}
+{"qid": 3260, "pred_relevant_windows": [[42, 74]]}
+{"qid": 5518, "pred_relevant_windows": [[0, 14]]}
+{"qid": 2967, "pred_relevant_windows": [[44, 58]]}
+{"qid": 5301, "pred_relevant_windows": [[40, 54]]}
+{"qid": 5986, "pred_relevant_windows": [[114, 150]]}
+{"qid": 7319, "pred_relevant_windows": [[18, 52]]}
+{"qid": 8586, "pred_relevant_windows": [[74, 98]]}
+{"qid": 3277, "pred_relevant_windows": [[58, 80]]}
+{"qid": 4338, "pred_relevant_windows": [[52, 84]]}
+{"qid": 6442, "pred_relevant_windows": [[102, 122]]}
+{"qid": 5614, "pred_relevant_windows": [[120, 150]]}
+{"qid": 6411, "pred_relevant_windows": [[108, 132]]}
+{"qid": 8006, "pred_relevant_windows": [[10, 24]]}
+{"qid": 4349, "pred_relevant_windows": [[28, 50]]}
+{"qid": 6472, "pred_relevant_windows": [[118, 132]]}
+{"qid": 6879, "pred_relevant_windows": [[66, 112], [116, 120]]}
+{"qid": 1596, "pred_relevant_windows": [[70, 104]]}
+{"qid": 2763, "pred_relevant_windows": [[16, 60]]}
+{"qid": 3924, "pred_relevant_windows": [[26, 44]]}
+{"qid": 7424, "pred_relevant_windows": [[120, 138]]}
+{"qid": 8799, "pred_relevant_windows": [[102, 150]]}
+{"qid": 2873, "pred_relevant_windows": [[0, 124]]}
+{"qid": 6002, "pred_relevant_windows": [[44, 136]]}
+{"qid": 6234, "pred_relevant_windows": [[52, 150]]}
+{"qid": 8609, "pred_relevant_windows": [[16, 54]]}
+{"qid": 8632, "pred_relevant_windows": [[102, 138]]}
+{"qid": 9558, "pred_relevant_windows": [[94, 108]]}
+{"qid": 10075, "pred_relevant_windows": [[12, 26]]}
+{"qid": 10306, "pred_relevant_windows": [[12, 26]]}
+{"qid": 2834, "pred_relevant_windows": [[88, 120]]}
+{"qid": 3888, "pred_relevant_windows": [[0, 18]]}
+{"qid": 5317, "pred_relevant_windows": [[24, 38]]}
+{"qid": 6995, "pred_relevant_windows": [[44, 66]]}
+{"qid": 8764, "pred_relevant_windows": [[2, 20]]}
+{"qid": 738, "pred_relevant_windows": [[0, 18]]}
+{"qid": 4181, "pred_relevant_windows": [[126, 150]]}
+{"qid": 5415, "pred_relevant_windows": [[14, 36]]}
+{"qid": 9185, "pred_relevant_windows": [[0, 8], [10, 22], [24, 56], [60, 150]]}
+{"qid": 2160, "pred_relevant_windows": [[28, 36], [38, 46], [48, 56], [58, 64]]}
+{"qid": 4474, "pred_relevant_windows": [[24, 46]]}
+{"qid": 8239, "pred_relevant_windows": [[120, 142]]}
+{"qid": 1632, "pred_relevant_windows": [[0, 124]]}
+{"qid": 3770, "pred_relevant_windows": [[0, 138]]}
+{"qid": 4941, "pred_relevant_windows": [[0, 22], [24, 28], [30, 42]]}
+{"qid": 848, "pred_relevant_windows": [[120, 138]]}
+{"qid": 5388, "pred_relevant_windows": [[120, 138], [140, 142]]}
+{"qid": 6794, "pred_relevant_windows": [[0, 150]]}
+{"qid": 9548, "pred_relevant_windows": [[106, 122]]}
+{"qid": 9646, "pred_relevant_windows": [[10, 12], [38, 150]]}
+{"qid": 9819, "pred_relevant_windows": [[0, 4], [136, 150]]}
+{"qid": 2428, "pred_relevant_windows": [[14, 118]]}
+{"qid": 2441, "pred_relevant_windows": [[134, 150]]}
+{"qid": 3669, "pred_relevant_windows": [[0, 32]]}
+{"qid": 7234, "pred_relevant_windows": [[88, 120]]}
+{"qid": 8396, "pred_relevant_windows": [[64, 104]]}
+{"qid": 2232, "pred_relevant_windows": [[10, 22], [34, 56], [60, 66], [70, 78], [90, 110], [112, 122], [124, 150]]}
+{"qid": 4564, "pred_relevant_windows": [[28, 56]]}
+{"qid": 6356, "pred_relevant_windows": [[80, 108]]}
+{"qid": 689, "pred_relevant_windows": [[104, 142]]}
+{"qid": 2136, "pred_relevant_windows": [[94, 150]]}
+{"qid": 2257, "pred_relevant_windows": [[8, 30], [116, 120], [122, 124], [126, 128]]}
+{"qid": 10137, "pred_relevant_windows": [[44, 52], [60, 66]]}
+{"qid": 401, "pred_relevant_windows": [[42, 56]]}
+{"qid": 453, "pred_relevant_windows": [[34, 60]]}
+{"qid": 5987, "pred_relevant_windows": [[0, 18]]}
+{"qid": 6953, "pred_relevant_windows": [[24, 54]]}
+{"qid": 1400, "pred_relevant_windows": [[58, 80]]}
+{"qid": 1440, "pred_relevant_windows": [[10, 42], [52, 58], [60, 64]]}
+{"qid": 9898, "pred_relevant_windows": [[0, 150]]}
+{"qid": 10143, "pred_relevant_windows": [[0, 36]]}
+{"qid": 10160, "pred_relevant_windows": [[84, 108]]}
+{"qid": 3819, "pred_relevant_windows": [[14, 36]]}
+{"qid": 5038, "pred_relevant_windows": [[126, 144]]}
+{"qid": 6212, "pred_relevant_windows": [[16, 44]]}
+{"qid": 7549, "pred_relevant_windows": [[104, 132]]}
+{"qid": 8470, "pred_relevant_windows": [[82, 106]]}
+{"qid": 1117, "pred_relevant_windows": [[20, 30], [32, 42], [44, 48], [50, 52], [54, 60]]}
+{"qid": 3111, "pred_relevant_windows": [[0, 30]]}
+{"qid": 7773, "pred_relevant_windows": [[0, 150]]}
+{"qid": 9715, "pred_relevant_windows": [[26, 54]]}
+{"qid": 9969, "pred_relevant_windows": [[0, 2], [10, 12], [14, 16], [18, 20], [22, 24], [26, 28], [30, 32], [34, 36], [38, 40], [42, 44], [46, 48], [50, 52], [56, 58], [60, 62], [66, 68], [70, 72], [74, 76], [78, 80], [82, 84], [86, 88], [90, 92], [96, 98], [100, 102], [106, 108], [110, 112], [116, 118], [120, 122], [126, 128], [130, 132], [134, 136], [138, 140], [142, 144], [146, 148]]}
+{"qid": 9982, "pred_relevant_windows": [[4, 20]]}
+{"qid": 318, "pred_relevant_windows": [[82, 96]]}
+{"qid": 1548, "pred_relevant_windows": [[104, 128], [132, 138]]}
+{"qid": 4808, "pred_relevant_windows": [[0, 150]]}
+{"qid": 7483, "pred_relevant_windows": [[20, 72]]}
+{"qid": 8394, "pred_relevant_windows": [[58, 118]]}
+{"qid": 3303, "pred_relevant_windows": [[0, 150]]}
+{"qid": 6412, "pred_relevant_windows": [[8, 28], [36, 46]]}
+{"qid": 8135, "pred_relevant_windows": [[88, 102]]}
+{"qid": 360, "pred_relevant_windows": [[12, 30]]}
+{"qid": 4066, "pred_relevant_windows": [[0, 48], [96, 150]]}
+{"qid": 5286, "pred_relevant_windows": [[0, 34]]}
+{"qid": 1135, "pred_relevant_windows": [[130, 146]]}
+{"qid": 3369, "pred_relevant_windows": [[0, 30], [78, 146]]}
+{"qid": 6474, "pred_relevant_windows": [[48, 70], [72, 82]]}
+{"qid": 9132, "pred_relevant_windows": [[0, 150]]}
+{"qid": 2506, "pred_relevant_windows": [[0, 14]]}
+{"qid": 545, "pred_relevant_windows": [[58, 72], [74, 80]]}
+{"qid": 2942, "pred_relevant_windows": [[0, 120]]}
+{"qid": 3980, "pred_relevant_windows": [[38, 54]]}
+{"qid": 8424, "pred_relevant_windows": [[0, 26], [36, 112]]}
+{"qid": 8807, "pred_relevant_windows": [[10, 150]]}
+{"qid": 4648, "pred_relevant_windows": [[54, 60], [116, 138]]}
+{"qid": 2046, "pred_relevant_windows": [[0, 40]]}
+{"qid": 3021, "pred_relevant_windows": [[108, 150]]}
+{"qid": 9670, "pred_relevant_windows": [[100, 114]]}
+{"qid": 9728, "pred_relevant_windows": [[82, 98], [104, 114]]}
+{"qid": 9842, "pred_relevant_windows": [[108, 122]]}
+{"qid": 3696, "pred_relevant_windows": [[0, 54]]}
+{"qid": 4801, "pred_relevant_windows": [[2, 10], [20, 22], [32, 36], [42, 46], [56, 62], [68, 74], [80, 84], [90, 94], [98, 102], [108, 114], [118, 122], [128, 134]]}
+{"qid": 4806, "pred_relevant_windows": [[62, 86]]}
+{"qid": 5450, "pred_relevant_windows": [[0, 108]]}
+{"qid": 6380, "pred_relevant_windows": [[0, 150]]}
+{"qid": 6392, "pred_relevant_windows": [[52, 78]]}
+{"qid": 7307, "pred_relevant_windows": [[96, 100], [106, 150]]}
+{"qid": 8289, "pred_relevant_windows": [[0, 150]]}
+{"qid": 491, "pred_relevant_windows": [[0, 150]]}
+{"qid": 2419, "pred_relevant_windows": [[0, 30]]}
+{"qid": 5194, "pred_relevant_windows": [[12, 44]]}
+{"qid": 6948, "pred_relevant_windows": [[126, 150]]}
+{"qid": 7515, "pred_relevant_windows": [[0, 12], [22, 54], [96, 150]]}
+{"qid": 366, "pred_relevant_windows": [[0, 38], [40, 42], [44, 64]]}
+{"qid": 2894, "pred_relevant_windows": [[26, 50]]}
+{"qid": 4777, "pred_relevant_windows": [[94, 112]]}
+{"qid": 7244, "pred_relevant_windows": [[0, 26]]}
+{"qid": 8949, "pred_relevant_windows": [[2, 20], [36, 54]]}
+{"qid": 4687, "pred_relevant_windows": [[26, 58]]}
+{"qid": 7925, "pred_relevant_windows": [[28, 30], [46, 48], [52, 70]]}
+{"qid": 687, "pred_relevant_windows": [[38, 52]]}
+{"qid": 2158, "pred_relevant_windows": [[0, 106]]}
+{"qid": 6741, "pred_relevant_windows": [[0, 150]]}
+{"qid": 5475, "pred_relevant_windows": [[12, 26]]}
+{"qid": 5606, "pred_relevant_windows": [[0, 12], [16, 74], [76, 150]]}
+{"qid": 5633, "pred_relevant_windows": [[98, 134]]}
+{"qid": 9212, "pred_relevant_windows": [[6, 150]]}
+{"qid": 1675, "pred_relevant_windows": [[22, 34], [36, 42]]}
+{"qid": 4041, "pred_relevant_windows": [[24, 40]]}
+{"qid": 4094, "pred_relevant_windows": [[16, 30]]}
+{"qid": 6903, "pred_relevant_windows": [[28, 38], [40, 46], [50, 56], [60, 64], [70, 76], [80, 86], [94, 98], [102, 110], [114, 128]]}
+{"qid": 6966, "pred_relevant_windows": [[32, 58]]}
+{"qid": 3264, "pred_relevant_windows": [[110, 124]]}
+{"qid": 4505, "pred_relevant_windows": [[78, 96]]}
+{"qid": 7685, "pred_relevant_windows": [[100, 124]]}
+{"qid": 9633, "pred_relevant_windows": [[90, 114]]}
+{"qid": 9934, "pred_relevant_windows": [[0, 2], [42, 56]]}
+{"qid": 10261, "pred_relevant_windows": [[2, 24]]}
+{"qid": 4705, "pred_relevant_windows": [[8, 22], [24, 32]]}
+{"qid": 4776, "pred_relevant_windows": [[104, 130]]}
+{"qid": 5833, "pred_relevant_windows": [[16, 34]]}
+{"qid": 3374, "pred_relevant_windows": [[62, 108]]}
+{"qid": 4540, "pred_relevant_windows": [[74, 120]]}
+{"qid": 5781, "pred_relevant_windows": [[78, 120]]}
+{"qid": 617, "pred_relevant_windows": [[94, 112], [114, 118]]}
+{"qid": 932, "pred_relevant_windows": [[22, 56]]}
+{"qid": 7945, "pred_relevant_windows": [[122, 136]]}
+{"qid": 510, "pred_relevant_windows": [[0, 14]]}
+{"qid": 1692, "pred_relevant_windows": [[0, 42], [44, 112]]}
+{"qid": 4156, "pred_relevant_windows": [[42, 48], [50, 74]]}
+{"qid": 1377, "pred_relevant_windows": [[60, 84]]}
+{"qid": 4969, "pred_relevant_windows": [[12, 30]]}
+{"qid": 5335, "pred_relevant_windows": [[48, 60], [64, 80]]}
+{"qid": 2768, "pred_relevant_windows": [[114, 150]]}
+{"qid": 3664, "pred_relevant_windows": [[112, 126]]}
+{"qid": 3828, "pred_relevant_windows": [[0, 94], [96, 150]]}
+{"qid": 2777, "pred_relevant_windows": [[16, 34]]}
+{"qid": 3698, "pred_relevant_windows": [[10, 24]]}
+{"qid": 3809, "pred_relevant_windows": [[0, 144]]}
+{"qid": 6970, "pred_relevant_windows": [[134, 150]]}
+{"qid": 8818, "pred_relevant_windows": [[14, 42]]}
+{"qid": 9825, "pred_relevant_windows": [[12, 36], [38, 108]]}
+{"qid": 10150, "pred_relevant_windows": [[46, 60]]}
+{"qid": 10302, "pred_relevant_windows": [[132, 146]]}
+{"qid": 589, "pred_relevant_windows": [[10, 42]]}
+{"qid": 2795, "pred_relevant_windows": [[58, 80]]}
+{"qid": 4920, "pred_relevant_windows": [[16, 30], [32, 38]]}
+{"qid": 8574, "pred_relevant_windows": [[128, 150]]}
+{"qid": 9198, "pred_relevant_windows": [[92, 126]]}
+{"qid": 353, "pred_relevant_windows": [[112, 128]]}
+{"qid": 1790, "pred_relevant_windows": [[128, 150]]}
+{"qid": 6113, "pred_relevant_windows": [[112, 150]]}
+{"qid": 3348, "pred_relevant_windows": [[16, 48]]}
+{"qid": 3472, "pred_relevant_windows": [[0, 120], [124, 150]]}
+{"qid": 5936, "pred_relevant_windows": [[0, 2], [12, 18], [90, 96], [100, 102], [110, 114], [122, 126], [132, 138]]}
+{"qid": 3088, "pred_relevant_windows": [[102, 144]]}
+{"qid": 4244, "pred_relevant_windows": [[90, 114]]}
+{"qid": 6587, "pred_relevant_windows": [[32, 56]]}
+{"qid": 9045, "pred_relevant_windows": [[22, 74]]}
+{"qid": 2175, "pred_relevant_windows": [[54, 80]]}
+{"qid": 6400, "pred_relevant_windows": [[12, 44]]}
+{"qid": 8121, "pred_relevant_windows": [[34, 56]]}
+{"qid": 4326, "pred_relevant_windows": [[64, 114]]}
+{"qid": 6625, "pred_relevant_windows": [[46, 60]]}
+{"qid": 7697, "pred_relevant_windows": [[38, 48], [50, 62]]}
+{"qid": 2780, "pred_relevant_windows": [[86, 110]]}
+{"qid": 2916, "pred_relevant_windows": [[0, 44]]}
+{"qid": 4410, "pred_relevant_windows": [[120, 142]]}
+{"qid": 4590, "pred_relevant_windows": [[2, 20]]}
+{"qid": 6193, "pred_relevant_windows": [[68, 104]]}
+{"qid": 8147, "pred_relevant_windows": [[114, 144]]}
+{"qid": 8395, "pred_relevant_windows": [[100, 150]]}
+{"qid": 8874, "pred_relevant_windows": [[42, 70]]}
+{"qid": 9349, "pred_relevant_windows": [[2, 24], [36, 52]]}
+{"qid": 6511, "pred_relevant_windows": [[0, 18]]}
+{"qid": 6626, "pred_relevant_windows": [[72, 116]]}
+{"qid": 7905, "pred_relevant_windows": [[40, 64]]}
+{"qid": 216, "pred_relevant_windows": [[0, 150]]}
+{"qid": 494, "pred_relevant_windows": [[0, 6], [10, 36], [48, 50], [54, 72], [86, 110], [114, 128]]}
+{"qid": 2589, "pred_relevant_windows": [[18, 24], [28, 32], [126, 136]]}
+{"qid": 6924, "pred_relevant_windows": [[100, 124]]}
+{"qid": 7473, "pred_relevant_windows": [[82, 102], [104, 112]]}
+{"qid": 9719, "pred_relevant_windows": [[10, 44]]}
+{"qid": 9727, "pred_relevant_windows": [[134, 150]]}
+{"qid": 10104, "pred_relevant_windows": [[60, 64], [68, 80]]}
+{"qid": 4985, "pred_relevant_windows": [[42, 92]]}
+{"qid": 5985, "pred_relevant_windows": [[114, 136]]}
+{"qid": 5552, "pred_relevant_windows": [[50, 68]]}
+{"qid": 7765, "pred_relevant_windows": [[0, 6], [16, 36]]}
+{"qid": 8255, "pred_relevant_windows": [[58, 80]]}
+{"qid": 9171, "pred_relevant_windows": [[58, 118]]}
+{"qid": 3031, "pred_relevant_windows": [[24, 70]]}
+{"qid": 3370, "pred_relevant_windows": [[76, 102]]}
+{"qid": 6453, "pred_relevant_windows": [[86, 150]]}
+{"qid": 1985, "pred_relevant_windows": [[32, 56]]}
+{"qid": 4232, "pred_relevant_windows": [[86, 102]]}
+{"qid": 4327, "pred_relevant_windows": [[0, 22], [70, 80]]}
+{"qid": 657, "pred_relevant_windows": [[62, 94]]}
+{"qid": 7650, "pred_relevant_windows": [[116, 150]]}
+{"qid": 7747, "pred_relevant_windows": [[66, 116]]}
+{"qid": 4072, "pred_relevant_windows": [[0, 150]]}
+{"qid": 1195, "pred_relevant_windows": [[0, 22], [24, 28]]}
+{"qid": 3449, "pred_relevant_windows": [[62, 86]]}
+{"qid": 6413, "pred_relevant_windows": [[96, 150]]}
+{"qid": 5004, "pred_relevant_windows": [[0, 22]]}
+{"qid": 6148, "pred_relevant_windows": [[0, 42]]}
+{"qid": 6646, "pred_relevant_windows": [[100, 120]]}
+{"qid": 8072, "pred_relevant_windows": [[10, 60]]}
+{"qid": 5699, "pred_relevant_windows": [[24, 38]]}
+{"qid": 3880, "pred_relevant_windows": [[24, 46]]}
+{"qid": 5243, "pred_relevant_windows": [[38, 66]]}
+{"qid": 6209, "pred_relevant_windows": [[10, 42]]}
+{"qid": 7343, "pred_relevant_windows": [[0, 26]]}
+{"qid": 1925, "pred_relevant_windows": [[10, 58]]}
+{"qid": 2245, "pred_relevant_windows": [[108, 150]]}
+{"qid": 3035, "pred_relevant_windows": [[64, 112]]}
+{"qid": 9028, "pred_relevant_windows": [[0, 150]]}
+{"qid": 9724, "pred_relevant_windows": [[130, 150]]}
+{"qid": 9993, "pred_relevant_windows": [[0, 150]]}
+{"qid": 10106, "pred_relevant_windows": [[14, 28]]}
+{"qid": 435, "pred_relevant_windows": [[0, 60]]}
+{"qid": 471, "pred_relevant_windows": [[74, 92]]}
+{"qid": 526, "pred_relevant_windows": [[46, 60]]}
+{"qid": 8841, "pred_relevant_windows": [[88, 134]]}
+{"qid": 1743, "pred_relevant_windows": [[58, 84]]}
+{"qid": 3858, "pred_relevant_windows": [[0, 4], [6, 12], [16, 18], [20, 22], [24, 26], [28, 30], [32, 34], [36, 38], [40, 42], [44, 46], [48, 50], [52, 54], [56, 58], [60, 62], [64, 66], [68, 70], [72, 74], [76, 78], [80, 82], [84, 86], [88, 90], [92, 94], [96, 98], [100, 102], [104, 106], [108, 110], [112, 114], [116, 118], [120, 122], [124, 126], [128, 130], [132, 134], [136, 138], [140, 142], [144, 146], [148, 150]]}
+{"qid": 4164, "pred_relevant_windows": [[94, 128]]}
+{"qid": 6928, "pred_relevant_windows": [[22, 24], [28, 48]]}
+{"qid": 8663, "pred_relevant_windows": [[64, 80]]}
+{"qid": 2104, "pred_relevant_windows": [[108, 132]]}
+{"qid": 5698, "pred_relevant_windows": [[100, 128]]}
+{"qid": 7751, "pred_relevant_windows": [[92, 136]]}
+{"qid": 2562, "pred_relevant_windows": [[14, 44]]}
+{"qid": 2698, "pred_relevant_windows": [[0, 10], [12, 14], [16, 18], [20, 22], [24, 26], [28, 30], [32, 34], [36, 38], [40, 42], [44, 46], [48, 50], [52, 54], [56, 58], [60, 62], [64, 66], [68, 70], [72, 74], [76, 78], [80, 82], [84, 86], [88, 90], [92, 94], [96, 98], [100, 102], [104, 106], [108, 110], [112, 114], [116, 118], [120, 122], [124, 126], [128, 130], [132, 134], [136, 138], [140, 142], [144, 150]]}
+{"qid": 4130, "pred_relevant_windows": [[0, 14]]}
+{"qid": 5993, "pred_relevant_windows": [[62, 122]]}
+{"qid": 6129, "pred_relevant_windows": [[84, 150]]}
+{"qid": 502, "pred_relevant_windows": [[0, 22], [24, 44], [46, 74], [76, 150]]}
+{"qid": 2887, "pred_relevant_windows": [[60, 86]]}
+{"qid": 9755, "pred_relevant_windows": [[8, 12], [18, 22], [28, 32], [38, 42], [46, 50], [54, 58], [64, 68]]}
+{"qid": 10092, "pred_relevant_windows": [[38, 146]]}
+{"qid": 10173, "pred_relevant_windows": [[38, 44], [52, 62], [70, 88], [96, 104], [110, 128], [134, 150]]}
+{"qid": 4309, "pred_relevant_windows": [[134, 150]]}
+{"qid": 5715, "pred_relevant_windows": [[94, 120]]}
+{"qid": 8247, "pred_relevant_windows": [[12, 36]]}
+{"qid": 9858, "pred_relevant_windows": [[120, 136]]}
+{"qid": 10053, "pred_relevant_windows": [[32, 56], [132, 138]]}
+{"qid": 10066, "pred_relevant_windows": [[50, 72]]}
+{"qid": 472, "pred_relevant_windows": [[106, 134]]}
+{"qid": 1298, "pred_relevant_windows": [[38, 70], [72, 82]]}
+{"qid": 6110, "pred_relevant_windows": [[108, 130], [132, 134]]}
+{"qid": 6917, "pred_relevant_windows": [[58, 80]]}
+{"qid": 8778, "pred_relevant_windows": [[10, 68]]}
+{"qid": 9952, "pred_relevant_windows": [[16, 28], [36, 48], [52, 60]]}
+{"qid": 10243, "pred_relevant_windows": [[34, 38], [48, 64]]}
+{"qid": 10283, "pred_relevant_windows": [[0, 26]]}
+{"qid": 9638, "pred_relevant_windows": [[108, 130], [134, 140]]}
+{"qid": 9820, "pred_relevant_windows": [[62, 136]]}
+{"qid": 10088, "pred_relevant_windows": [[116, 150]]}
+{"qid": 9714, "pred_relevant_windows": [[4, 8], [12, 16], [20, 22], [24, 26], [30, 34], [36, 38]]}
+{"qid": 9906, "pred_relevant_windows": [[88, 104]]}
+{"qid": 9949, "pred_relevant_windows": [[0, 4], [6, 48]]}
+{"qid": 918, "pred_relevant_windows": [[102, 110], [112, 130]]}
+{"qid": 6418, "pred_relevant_windows": [[48, 68]]}
+{"qid": 8242, "pred_relevant_windows": [[84, 114]]}
+{"qid": 6448, "pred_relevant_windows": [[40, 66]]}
+{"qid": 7840, "pred_relevant_windows": [[16, 60]]}
+{"qid": 8264, "pred_relevant_windows": [[12, 32]]}
+{"qid": 775, "pred_relevant_windows": [[74, 106]]}
+{"qid": 5652, "pred_relevant_windows": [[98, 114]]}
+{"qid": 6518, "pred_relevant_windows": [[4, 40]]}
+{"qid": 6309, "pred_relevant_windows": [[72, 144]]}
+{"qid": 6552, "pred_relevant_windows": [[0, 58]]}
+{"qid": 8225, "pred_relevant_windows": [[34, 94]]}
+{"qid": 3411, "pred_relevant_windows": [[100, 134]]}
+{"qid": 5490, "pred_relevant_windows": [[60, 88]]}
+{"qid": 5743, "pred_relevant_windows": [[86, 138]]}
+{"qid": 9058, "pred_relevant_windows": [[62, 84], [94, 102]]}
+{"qid": 3397, "pred_relevant_windows": [[0, 143]]}
+{"qid": 5709, "pred_relevant_windows": [[34, 78]]}
+{"qid": 7921, "pred_relevant_windows": [[14, 26], [54, 62], [66, 72]]}
+{"qid": 700, "pred_relevant_windows": [[84, 114]]}
+{"qid": 7602, "pred_relevant_windows": [[8, 56]]}
+{"qid": 7957, "pred_relevant_windows": [[12, 60]]}
+{"qid": 584, "pred_relevant_windows": [[112, 130]]}
+{"qid": 1715, "pred_relevant_windows": [[48, 64]]}
+{"qid": 5156, "pred_relevant_windows": [[98, 142]]}
+{"qid": 7257, "pred_relevant_windows": [[14, 40]]}
+{"qid": 8454, "pred_relevant_windows": [[100, 126]]}
+{"qid": 2450, "pred_relevant_windows": [[126, 148]]}
+{"qid": 3899, "pred_relevant_windows": [[98, 150]]}
+{"qid": 4927, "pred_relevant_windows": [[60, 80]]}
+{"qid": 7198, "pred_relevant_windows": [[90, 108]]}
+{"qid": 7451, "pred_relevant_windows": [[20, 52]]}
+{"qid": 609, "pred_relevant_windows": [[68, 104], [118, 120], [122, 124], [126, 128], [130, 132], [134, 136], [138, 150]]}
+{"qid": 2200, "pred_relevant_windows": [[90, 120], [132, 138], [140, 146]]}
+{"qid": 8261, "pred_relevant_windows": [[126, 150]]}
+{"qid": 1956, "pred_relevant_windows": [[0, 46]]}
+{"qid": 4487, "pred_relevant_windows": [[80, 98]]}
+{"qid": 7671, "pred_relevant_windows": [[118, 126], [128, 148]]}
+{"qid": 4571, "pred_relevant_windows": [[6, 22], [24, 32], [34, 40], [46, 54], [56, 60], [70, 74]]}
+{"qid": 5708, "pred_relevant_windows": [[50, 74]]}
+{"qid": 8078, "pred_relevant_windows": [[54, 150]]}
+{"qid": 5787, "pred_relevant_windows": [[10, 12], [16, 108]]}
+{"qid": 6482, "pred_relevant_windows": [[106, 140]]}
+{"qid": 7834, "pred_relevant_windows": [[80, 94], [108, 110], [120, 126]]}
+{"qid": 5697, "pred_relevant_windows": [[16, 48]]}
+{"qid": 6475, "pred_relevant_windows": [[28, 48]]}
+{"qid": 7835, "pred_relevant_windows": [[78, 106], [118, 126]]}
+{"qid": 9815, "pred_relevant_windows": [[82, 112]]}
+{"qid": 9849, "pred_relevant_windows": [[60, 80]]}
+{"qid": 10260, "pred_relevant_windows": [[0, 40], [48, 52]]}
+{"qid": 9770, "pred_relevant_windows": [[26, 40]]}
+{"qid": 9919, "pred_relevant_windows": [[80, 120]]}
+{"qid": 10069, "pred_relevant_windows": [[0, 0]]}
+{"qid": 3269, "pred_relevant_windows": [[4, 28]]}
+{"qid": 6657, "pred_relevant_windows": [[2, 28]]}
+{"qid": 7869, "pred_relevant_windows": [[12, 34]]}
+{"qid": 166, "pred_relevant_windows": [[124, 150]]}
+{"qid": 2757, "pred_relevant_windows": [[48, 52], [56, 66], [70, 74], [78, 84], [88, 90]]}
+{"qid": 3625, "pred_relevant_windows": [[0, 42]]}
+{"qid": 7017, "pred_relevant_windows": [[82, 96]]}
+{"qid": 7539, "pred_relevant_windows": [[0, 20], [28, 30]]}
+{"qid": 9332, "pred_relevant_windows": [[0, 48]]}
+{"qid": 39, "pred_relevant_windows": [[0, 28], [30, 42]]}
+{"qid": 3903, "pred_relevant_windows": [[0, 26], [54, 76]]}
+{"qid": 4975, "pred_relevant_windows": [[8, 18], [26, 36], [40, 44]]}
+{"qid": 239, "pred_relevant_windows": [[4, 36]]}
+{"qid": 2675, "pred_relevant_windows": [[44, 76]]}
+{"qid": 6072, "pred_relevant_windows": [[10, 14], [16, 150]]}
+{"qid": 7203, "pred_relevant_windows": [[0, 14]]}
+{"qid": 7389, "pred_relevant_windows": [[112, 126]]}
+{"qid": 654, "pred_relevant_windows": [[12, 34]]}
+{"qid": 3288, "pred_relevant_windows": [[0, 10], [14, 18], [20, 22], [24, 26], [28, 30], [34, 36], [38, 40], [42, 44], [46, 48], [50, 52], [54, 56], [58, 60], [62, 64], [66, 68], [70, 72], [74, 76], [78, 80], [82, 84], [86, 88], [100, 102], [104, 106], [110, 112], [114, 116], [120, 122], [124, 126], [128, 130], [132, 134], [136, 138], [140, 142], [144, 150]]}
+{"qid": 6406, "pred_relevant_windows": [[80, 126]]}
+{"qid": 227, "pred_relevant_windows": [[34, 64], [66, 90]]}
+{"qid": 2643, "pred_relevant_windows": [[8, 62]]}
+{"qid": 5204, "pred_relevant_windows": [[102, 136]]}
+{"qid": 6956, "pred_relevant_windows": [[0, 28]]}
+{"qid": 7504, "pred_relevant_windows": [[128, 146]]}
+{"qid": 9358, "pred_relevant_windows": [[0, 0]]}
+{"qid": 1177, "pred_relevant_windows": [[26, 54]]}
+{"qid": 4333, "pred_relevant_windows": [[0, 28]]}
+{"qid": 4543, "pred_relevant_windows": [[0, 36]]}
+{"qid": 8994, "pred_relevant_windows": [[24, 52]]}
+{"qid": 1045, "pred_relevant_windows": [[128, 144]]}
+{"qid": 7635, "pred_relevant_windows": [[0, 32]]}
+{"qid": 8099, "pred_relevant_windows": [[118, 134]]}
+{"qid": 722, "pred_relevant_windows": [[26, 50]]}
+{"qid": 1825, "pred_relevant_windows": [[0, 150]]}
+{"qid": 4750, "pred_relevant_windows": [[130, 150]]}
+{"qid": 3489, "pred_relevant_windows": [[0, 150]]}
+{"qid": 5541, "pred_relevant_windows": [[12, 36], [38, 42], [46, 104]]}
+{"qid": 193, "pred_relevant_windows": [[126, 140]]}
+{"qid": 271, "pred_relevant_windows": [[2, 24]]}
+{"qid": 5349, "pred_relevant_windows": [[118, 150]]}
+{"qid": 7416, "pred_relevant_windows": [[44, 66]]}
+{"qid": 8791, "pred_relevant_windows": [[30, 52]]}
+{"qid": 2133, "pred_relevant_windows": [[120, 138]]}
+{"qid": 2221, "pred_relevant_windows": [[50, 82]]}
+{"qid": 5492, "pred_relevant_windows": [[120, 150]]}
+{"qid": 1761, "pred_relevant_windows": [[96, 110], [118, 132]]}
+{"qid": 3992, "pred_relevant_windows": [[20, 24], [30, 34], [40, 44], [48, 50]]}
+{"qid": 6222, "pred_relevant_windows": [[14, 36]]}
+{"qid": 7123, "pred_relevant_windows": [[12, 64]]}
+{"qid": 8420, "pred_relevant_windows": [[24, 54], [134, 142]]}

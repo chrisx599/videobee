@@ -170,7 +170,9 @@ def main(args):
         data = [json.loads(line) for line in f]
     content = []
     querys = []
+    qid = []
     for item in data:
+        qid.append(item['qid'])
         content.append(item['vid'] + '.mp4')
         querys.append(item['query'])
 
@@ -179,7 +181,7 @@ def main(args):
     # with open(video_file,"r") as f:
     #     content=f.readlines()
     
-    result={}
+    result = []
     
     for k in tqdm(range(len(content))):
         i = content[k]
@@ -238,11 +240,15 @@ def main(args):
         outputs = tokenizer.decode(output_ids[0, input_ids.shape[1]:]).strip()
         print(outputs)
         
-        result[path.split('/')[-1]] = outputs.replace("<|endoftext|>","")
-        
-    result = json.dumps(result, indent = 4)
-    with open("inference.json", "w") as f:
-        f.write(result)
+        result.append({'qid': qid[k], 'pred_relevant_windows': outputs.replace("<|endoftext|>","")})
+    
+
+    with open('data.jsonl', 'w') as f:
+        for item in result:
+            f.write(json.dumps(item) + '\n')
+    # result = json.dumps(result, indent = 4)
+    # with open("inference.json", "w") as f:
+    #     f.write(result)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

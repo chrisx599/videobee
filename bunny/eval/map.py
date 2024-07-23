@@ -32,7 +32,7 @@ def compute_mr_ap(submission, ground_truth, iou_thds=np.linspace(0.5, 0.95, 10),
                 "video-id": d["qid"],  # in order to use the API
                 "t-start": w[0],
                 "t-end": w[1],
-                "score": w[2]
+                # "score": w[2]
             })
 
     gt_qid2data = defaultdict(list)
@@ -326,9 +326,9 @@ def eval_submission(submission, ground_truth, verbose=True, match_number=True):
 def eval_main():
     import argparse
     parser = argparse.ArgumentParser(description="Moments and Highlights Evaluation Script")
-    parser.add_argument("--submission_path", type=str, help="path to generated prediction file")
-    parser.add_argument("--gt_path", type=str, help="path to GT file")
-    parser.add_argument("--save_path", type=str, help="path to save the results")
+    parser.add_argument("--submission_path", type=str, help="path to generated prediction file", default="/zhaobai46d/videobunny/dataprocess.jsonl")
+    parser.add_argument("--gt_path", type=str, help="path to GT file", default="/zhaobai46d/dataset/videodata/qvhighlights/highlight_val_release.jsonl")
+    parser.add_argument("--save_path", type=str, help="path to save the results", default="/zhaobai46d/videobunny/result.json")
     parser.add_argument("--not_verbose", action="store_true")
     args = parser.parse_args()
 
